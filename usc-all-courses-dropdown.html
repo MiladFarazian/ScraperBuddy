@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>USC Course Finder</title>
+    <style>
+        :root {
+            --usc-cardinal: #990000;
+            --usc-gold: #FFCC00;
+        }
+        
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f8f8f8;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid var(--usc-cardinal);
+            padding-bottom: 15px;
+        }
+        
+        h1 {
+            color: var(--usc-cardinal);
+            margin-bottom: 5px;
+        }
+        
+        .search-container {
+            background-color: white;
+            border-radius: 8px;
+            padding: 25px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+            border-top: 4px solid var(--usc-cardinal);
+        }
+        
+        .filters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .filter-group {
+            flex: 1;
+            min-width: 200px;
+        }
+        
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 8px;
+            font-size: 16px;
+        }
+        
+        select, input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+            margin-bottom: 5px;
+            background-color: white;
+        }
+        
+        input:focus, select:focus {
+            outline: 2px solid var(--usc-cardinal);
+            border-color: var(--usc-cardinal);
+        }
+        
+        .course-details {
+            background-color: white;
+            border-radius: 8px;
+            padding: 25px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            display: none;
+            border-top: 4px solid var(--usc-cardinal);
+        }
+        
+        .course-details h2 {
+            color: var(--usc-cardinal);
+            margin-top: 0;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        
+        .info-row {
+            margin-bottom: 15px;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        
+        .info-label {
+            font-weight: bold;
+            width: 140px;
+            margin-right: 10px;
+        }
+        
+        .usc-logo {
+            max-width: 200px;
+            margin-bottom: 15px;
+        }
+        
+        .error-message {
+            background-color: #ffebee;
+            color: #c62828;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            border-left: 4px solid #c62828;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 20px;
+            font-style: italic;
+            color: #666;
+        }
+        
+        .department-badge {
+            display: inline-block;
+            background-color: var(--usc-gold);
+            color: #333;
+            font-weight: bold;
+            padding: 3px 8px;
+            border-radius: 4px;
+            margin-right: 10px;
+            font-size: 14px;
+        }
+        
+        .search-button {
+            background-color: var(--usc-cardinal);
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 4px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.2s;
+        }
+        
+        .search-button:hover {
+            background-color: #7D0000;
+        }
+        
+        .counter {
+            text-align: center;
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="/api/placeholder/200/100" alt="USC Logo" class="usc-logo">
+        <h1>USC Course Finder</h1>
+        <p>Find and explore USC course offerings</p>
+    </header>
+    
+    <div id="loading" class="loading">Loading courses from database...</div>
+    <div id="error-container"></div>
+    
+    <div class="search-container" id="search-container" style="display:none;">
+        <div class="filters">
+            <div class="filter-group">
+                <label for="department-filter">Department:</label>
+                <select id="department-filter">
+                    <option value="">All Departments</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <label for="search-input">Search by Keyword:</label>
+                <input type="text" id="search-input" placeholder="Enter course title or number">
+            </div>
+        </div>
+        
+        <div class="filter-group">
+            <label for="course-dropdown">Select a Course:</label>
+            <select id="course-dropdown">
+                <option value="">-- Select a Course --</option>
+            </select>
+        </div>
+        
+        <div id="counter" class="counter"></div>
+    </div>
+    
+    <div id="course-details" class="course-details">
+        <h2 id="course-title">Course Title</h2>
+        <div class="info-row">
+            <span class="info-label">Course Number:</span>
+            <span id="course-number">--</span>
+        </div>
+        <div class="info-row">
+            <span class="info-label">Instructor:</span>
+            <span id="course-instructor">--</span>
+        </div>
+    </div>
+
+    <script>
+        // DOM elements
+        const departmentFilter = document.getElementById('department-filter');
+        const searchInput = document.getElementById('search-input');
+        const dropdown = document.getElementById('course-dropdown');
+        const detailsDiv = document.getElementById('course-details');
+        const courseTitle = document.getElementById('course-title');
+        const courseNumber = document.getElementById('course-number');
+        const courseInstructor = document.getElementById('course-instructor');
+        const loadingDiv = document.getElementById('loading');
+        const searchContainer = document.getElementById('search-container');
+        const errorContainer = document.getElementById('error-container');
+        const counterDiv = document.getElementById('counter');
+        
+        // Course data array
+        let allCourses = [];
+        let filteredCourses = [];
+        let departments = new Set();
+        
+        // Parse CSV function
+        function parseCSV(text) {
+            // Split by newlines
+            const lines = text.split('\n');
+            
+            // If CSV is empty or has only a header
+            if (lines.length <= 1) {
+                throw new Error("CSV file is empty or contains only headers");
+            }
+            
+            // Parse header
+            const header = lines[0].split(',').map(item => item.replace(/"/g, '').trim());
+            
+            // Find column indexes
+            const courseNumIndex = header.indexOf('Course number');
+            const courseTitleIndex = header.indexOf('Course title');
+            const instructorIndex = header.indexOf('Instructor');
+            
+            // Validate required columns exist
+            if (courseNumIndex === -1 || courseTitleIndex === -1) {
+                throw new Error("CSV is missing required columns: 'Course number' or 'Course title'");
+            }
+            
+            // Parse data rows
+            const data = [];
+            for (let i = 1; i < lines.length; i++) {
+                if (lines[i].trim() === '') continue; // Skip empty lines
+                
+                // Parse CSV line (handling quoted fields with commas)
+                const row = [];
+                let inQuotes = false;
+                let currentField = '';
+                
+                for (let j = 0; j < lines[i].length; j++) {
+                    const char = lines[i][j];
+                    
+                    if (char === '"') {
+                        inQuotes = !inQuotes;
+                    } else if (char === ',' && !inQuotes) {
+                        row.push(currentField.replace(/"/g, '').trim());
+                        currentField = '';
+                    } else {
+                        currentField += char;
+                    }
+                }
+                
+                // Add the last field
+                row.push(currentField.replace(/"/g, '').trim());
+                
+                // Extract department code from course number (e.g., "NSCI-524" -> "NSCI")
+                const courseNum = row[courseNumIndex];
+                const departmentCode = courseNum.split('-')[0];
+                
+                // Create course object
+                const course = {
+                    id: courseNum,
+                    title: row[courseTitleIndex],
+                    instructor: instructorIndex !== -1 ? row[instructorIndex] : '',
+                    department: departmentCode
+                };
+                
+                data.push(course);
+                departments.add(departmentCode);
+            }
+            
+            return data;
+        }
+        
+        // Function to load CSV file
+        function loadCSV(filePath) {
+            return fetch(filePath)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Failed to load CSV (${response.status} ${response.statusText})`);
+                    }
+                    return response.text();
+                })
+                .then(csvText => {
+                    return parseCSV(csvText);
+                });
+        }
+        
+        // Function to populate department filter
+        function populateDepartmentFilter() {
+            const departmentsArray = Array.from(departments).sort();
+            departmentsArray.forEach(dept => {
+                const option = document.createElement('option');
+                option.value = dept;
+                option.textContent = dept;
+                departmentFilter.appendChild(option);
+            });
+        }
+        
+        // Function to filter courses
+        function filterCourses() {
+            const selectedDepartment = departmentFilter.value;
+            const searchTerm = searchInput.value.toLowerCase();
+            
+            filteredCourses = allCourses.filter(course => {
+                // Filter by department if selected
+                if (selectedDepartment && course.department !== selectedDepartment) {
+                    return false;
+                }
+                
+                // Filter by search term
+                if (searchTerm) {
+                    return course.id.toLowerCase().includes(searchTerm) || 
+                           course.title.toLowerCase().includes(searchTerm);
+                }
+                
+                return true;
+            });
+            
+            // Update dropdown
+            populateDropdown(filteredCourses);
+            
+            // Update counter
+            counterDiv.textContent = `Showing ${filteredCourses.length} of ${allCourses.length} courses`;
+        }
+        
+        // Function to populate dropdown
+        function populateDropdown(courses) {
+            // Clear dropdown except first option
+            while (dropdown.options.length > 1) {
+                dropdown.remove(1);
+            }
+            
+            // Sort courses by course number
+            courses.sort((a, b) => a.id.localeCompare(b.id));
+            
+            // Add courses to dropdown
+            courses.forEach(course => {
+                const option = document.createElement('option');
+                option.value = course.id;
+                option.textContent = `${course.id}: ${course.title}`;
+                dropdown.appendChild(option);
+            });
+        }
+        
+        // Add event listeners
+        departmentFilter.addEventListener('change', filterCourses);
+        searchInput.addEventListener('input', filterCourses);
+        
+        dropdown.addEventListener('change', function() {
+            const selectedValue = this.value;
+            
+            if (selectedValue === "") {
+                detailsDiv.style.display = "none";
+                return;
+            }
+            
+            // Find the selected course
+            const selectedCourse = filteredCourses.find(course => course.id === selectedValue);
+            
+            if (selectedCourse) {
+                // Update the details
+                courseTitle.textContent = selectedCourse.title;
+                courseNumber.textContent = selectedCourse.id;
+                courseInstructor.textContent = selectedCourse.instructor || "Not specified";
+                
+                // Show the details div
+                detailsDiv.style.display = "block";
+            }
+        });
+        
+        // Load the CSV data on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            // Load CSV (change the file path as needed)
+            loadCSV('usc_all_courses_simplified.csv')
+                .then(courses => {
+                    allCourses = courses;
+                    filteredCourses = [...allCourses];
+                    
+                    // Populate department filter
+                    populateDepartmentFilter();
+                    
+                    // Populate dropdown with all courses initially
+                    populateDropdown(allCourses);
+                    
+                    // Update counter
+                    counterDiv.textContent = `Showing ${allCourses.length} courses`;
+                    
+                    // Hide loading, show search container
+                    loadingDiv.style.display = 'none';
+                    searchContainer.style.display = 'block';
+                })
+                .catch(error => {
+                    console.error('Error loading CSV:', error);
+                    loadingDiv.style.display = 'none';
+                    
+                    // Show error message
+                    const errorMessage = document.createElement('div');
+                    errorMessage.className = 'error-message';
+                    errorMessage.textContent = `Error loading courses: ${error.message}`;
+                    errorContainer.appendChild(errorMessage);
+                });
+        });
+    </script>
+</body>
+</html>

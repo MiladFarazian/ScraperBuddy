@@ -1,0 +1,5194 @@
+Course number,Course title,Instructor
+CSCI-100xg,Explorations in Computing,Sathyanaraya Raghavachary
+,,
+,,
+CSCI-102L,Introduction to Programming,Mark Redekopp
+,,Mark Redekopp
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+CSCI-103L,Object Oriented Programming,
+,,Andrew Goodney
+,,Andrew Goodney
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+CSCI-104L,Data Structures,Carter Slocum
+,,Carter Slocum
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+CSCI-170,Discrete Methods in Computer Science,Aaron Cote
+,,Aaron Cote
+,,Aaron Cote
+,,Aaron Cote
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+CSCI-201,Principles of Software Development,
+,,
+,,Marco Papa
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+CSCI-270,Introduction to Algorithms and Theory of Computing,Mate Szabo
+,,
+,,
+,,
+,,Jiapeng Zhang
+,,
+,,
+,,
+,,
+,,
+CSCI-299,Special Topics,
+,Programming Fundamentals for Computational Science,
+,Programming for Applications for Computational Science,
+CSCI-310,Software Engineering,Chao Wang
+CSCI-350,Fundamentals of Operating Systems,
+,,
+,,
+,,Tatyana Ryutov
+,,
+CSCI-353,Internetworking,
+,,
+,,Ramesh Govindan
+,,
+CSCI-356,Computer Systems,Mark Redekopp
+,,Marco Paolieri
+,,
+,,
+,,
+,,Mark Redekopp Marco Paolieri
+CSCI-360,Artificial Intelligence: Principles and Foundations,
+,,
+,,Mohammad Reza Rajati
+,,
+CSCI-368,Cross-Platform App Development,
+,,
+CSCI-380,Video Game Programming,Sanjay Madhav
+,,
+,,Matthew Whiting
+CSCI-401,Capstone: Design and Construction of Large Software Systems,Victor Adamchik
+,,Victor Adamchik
+CSCI-402,Operating Systems,William Cheng
+,,
+,,William Cheng
+,,
+,,William Cheng
+,,
+CSCI-420,Computer Graphics,
+,,
+CSCI-426,Game Prototyping,Andrew Nealen
+CSCI-430,Computer and Network Security,
+,,Jelena Mirkovic
+CSCI-431,Principles of Functional Programming,Mukund Raghothaman
+CSCI-435,Professional C++,Sanjay Madhav
+CSCI-444,Natural Language Processing,Swabha Swayamdipta
+CSCI-445L,Introduction to Robotics,
+,,Heather Culbertson
+,,
+,,
+CSCI-450,Introduction to Computer Networks,Feng Qian
+,,Feng Qian
+,,Cauligi Raghavendra
+,,Cauligi Raghavendra
+,,Ali Zahid
+,,Ali Zahid
+,,Ali Zahid
+,,Ali Zahid
+,,Ali Zahid
+,,Ali Zahid
+CSCI-452,Parallel and Distributed Computation,
+,,
+CSCI-454L,Introduction to System-on-Chip,Shahin Nazarian
+,,
+CSCI-455x,Introduction to Programming Systems Design,Claire Bono
+,,
+,,
+,,
+,,
+,,Claire Bono
+,,
+CSCI-457,Computer Systems Organization,Gandhi Puvvada
+,,
+,,Gandhi Puvvada
+,,
+,,
+,,
+,,
+,,
+CSCI-458,Numerical Methods,
+,,
+,,
+,,
+,,
+,,
+CSCI-461,Artificial Intelligence for Sustainable Development,Bistra Dilkina
+CSCI-467,Introduction to Machine Learning,Victor Adamchik
+,,
+CSCI-476,Cryptography: Secure Communication and Computation,
+CSCI-485,File and Database Management,
+CSCI-490x,Directed Research,
+CSCI-491aL,Advanced Game Project,Scott Easley
+CSCI-495,Senior Project,
+CSCI-502a,Numerical Analysis,
+CSCI-505a,Applied Probability,
+CSCI-510,Software Management and Economics,Mahdi Eslamimehr
+CSCI-513,Autonomous Cyber-Physical Systems,Jyotirmoy Deshmukh
+CSCI-517,Research Methods and Analysis for User Studies,
+,,
+CSCI-522,Game Engine Development,Artjoms Kovalovs
+CSCI-526,Advanced Mobile Devices and Game Consoles,Scott Easley
+,,Scott Easley
+CSCI-529a,Graduate Advanced Game Project,Andrew Nealen
+CSCI-530,Security Systems,Clifford Neuman
+,,
+,,Clifford Neuman
+,,
+CSCI-536,Linear Programming and Extensions,Niloufar Izadinia
+CSCI-544,Applied Natural Language Processing,Jieyu Zhao
+CSCI-545,Robotics,
+,,Daniel Seita
+,,
+CSCI-547,Robot Dynamics and Control,Quang Nguyen
+CSCI-550,Advanced Data Stores,Ibrahim Sabek
+CSCI-551,Computer Networking,John Heidemann
+,,John Heidemann
+CSCI-554,Cyber-Physical Systems: A Computing Perspective,Paul Bogdan
+,,
+,,
+CSCI-557,Computer Systems Architecture,Murali Annavaram
+,,Murali Annavaram
+,,
+,,
+CSCI-561,Foundations of Artificial Intelligence,Wei-Min Shen
+,,
+,,
+,,Wei-Min Shen
+,,
+,,
+CSCI-566,Deep Learning and Its Applications,Yan Liu
+CSCI-567,Machine Learning,
+,,
+,,
+,,
+,,
+,,
+CSCI-570,Analysis of Algorithms,Shahriar Shamsian
+,,
+,,
+,,Shahriar Shamsian
+,,
+,,
+,,Shahriar Shamsian
+,,
+,,
+,,Mate Szabo
+,,
+,,
+CSCI-571,Web Technologies,Marco Papa
+,,Marco Papa
+,,Marco Papa
+CSCI-572,Information Retrieval and Web Search Engines,Sathyanaraya Raghavachary
+,,
+,,Sathyanaraya Raghavachary
+CSCI-576,Multimedia Systems Design,Parag Havaldar
+,,Parag Havaldar
+CSCI-580,3-D Graphics and Rendering,Ulrich Neumann
+,,
+,,
+CSCI-585,Database Systems,Shahram Ghandeharizadeh
+,,
+,,
+,,Sathyanaraya Raghavachary
+,,
+,,
+,,Shahram Ghandeharizadeh
+,,
+,,
+CSCI-591,Computer Science Research Colloquium,Nenad Medvidovic
+,,Nenad Medvidovic
+CSCI-611,Mathematics of High-Dimensional Data,Mahdi Soltanolkotabi
+CSCI-612,Optimization for the Information and Data Sciences,Mahdi Soltanolkotabi
+,,
+CSCI-626,Text as Data,Morteza Dehghani
+CSCI-651,Advanced Computer Networking,John Heidemann
+CSCI-653,High Performance Computing and Simulations,Aiichiro Nakano
+CSCI-654,Crafting a Research Agenda,Barath Raghavan
+CSCI-658,Diagnosis and Design of Reliable Digital Systems,Moe Tabar
+CSCI-659,Introduction to Online Optimization,Haipeng Luo
+CSCI-662,Advanced Natural Language Processing,Jonathan May
+CSCI-670,Advanced Analysis of Algorithms,Ming-Deh Huang
+CSCI-675,Convex and Combinatorial Optimization,Shaddin Dughmi
+CSCI-677,Advanced Computer Vision,Ramakant Nevatia
+,,Ramakant Nevatia
+CSCI-697,Seminar in Computer Science Research,Maja Mataric
+MATH-040x,Basic Mathematical Skills,
+,,
+MATH-108g,Contemporary Precalculus,
+,,
+,,
+,,
+,,
+,,
+MATH-114xg,Foundations of Statistics,
+,,
+,,
+,,
+,,
+,,
+MATH-117g,Introduction to Mathematics for Business and Economics,
+,,
+,,
+,,
+,,
+,,
+MATH-118xg,Calculus for Business and Economics,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+MATH-125g,Calculus I,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+MATH-126g,Calculus II,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+MATH-129,Calculus II for Engineers and Scientists,
+,,
+,,
+,,
+,,
+,,
+MATH-208x,Elementary Probability and Statistics,
+MATH-225,Linear Algebra and Linear Differential Equations,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+MATH-226g,Calculus III,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+MATH-229,Calculus III for Engineers and Scientists,
+,,
+,,
+,,
+,,
+,,
+MATH-245,Mathematics of Physics and Engineering I,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+MATH-290,Mathematical Reasoning and Problem Solving,
+,,
+MATH-307,Statistical Inference and Data Analysis I,
+,,
+MATH-395,Seminar in Problem Solving,
+MATH-407,Probability Theory,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+MATH-408,Mathematical Statistics,
+,,
+,,
+,,
+,,
+,,
+MATH-410,Fundamental Concepts of Modern Algebra,
+,,
+MATH-425a,Fundamental Concepts of Analysis,
+,,
+,,
+,,
+MATH-430,Theory of Numbers,
+,,
+MATH-432,Applied Combinatorics,
+MATH-434,Euclidean and Non-Euclidean Geometries,
+MATH-440,Topology,
+MATH-445,Mathematics of Physics and Engineering II,
+,,
+MATH-446,Data Science with Python,
+,,
+MATH-447,Mathematics of Machine Learning,
+MATH-458,Numerical Methods,
+,,
+,,
+,,
+,,
+,,
+MATH-467,Theory and Computational Methods for Optimization,
+,,
+MATH-490x,Directed Research,
+MATH-502a,Numerical Analysis,
+MATH-505a,Applied Probability,
+MATH-507a,Theory of Probability,
+MATH-509,Stochastic Differential Equations,
+MATH-510a,Algebra,
+MATH-511aL,Data Analysis,
+,,
+,,
+MATH-511bL,Data Analysis,
+,,
+MATH-512,Financial Informatics and Simulation (Computer Labs and Prac,
+,,
+,,
+MATH-513,Lie Theory,
+MATH-525a,Real Analysis,
+MATH-530a,Stochastic Calculus and Mathematical Finance,
+MATH-532,Combinatorial Analysis,
+MATH-535b,Differential Geometry,
+MATH-540,Topology,
+MATH-541b,Introduction to Mathematical Statistics,
+MATH-546,Mathematical Statistics for Data Science,
+MATH-547,Mathematical Foundations of Statistical Learning Theory,
+MATH-549,Foundations of Mathematical Data Science,
+MATH-550,Statistical Consulting and Data Analysis,
+MATH-555a,Partial Differential Equations,
+MATH-577,Computational Molecular Biology Laboratory,Mark Chaisson
+MATH-590,Directed Research,
+,,
+MATH-594a,Master's Thesis,
+MATH-594b,Master's Thesis,
+MATH-594z,Master's Thesis,
+MATH-595,Practicum in Teaching the Liberal Arts: Mathematics,
+MATH-596,Internship for Curricular Practical Training,
+MATH-613,Topics in Representation Theory,
+MATH-625,Topics in Real Analysis,Igor Kukavica
+MATH-635,Topics in Differential Geometry,
+MATH-702,Seminar in Numerical Analysis,
+MATH-705,Seminar in Probability,
+MATH-710,Seminar in Algebra,
+MATH-725,Seminar in Analysis,
+MATH-733,Seminar in Combinatorics,
+MATH-735,Seminar in Differential Geometry,
+MATH-740,Seminar in Topology,
+MATH-741,Seminar in Statistics,
+MATH-755,Seminar in Partial Differential Equations,
+MATH-790,Research,
+MATH-794a,Doctoral Dissertation,
+MATH-794b,Doctoral Dissertation,
+MATH-794c,Doctoral Dissertation,
+MATH-794d,Doctoral Dissertation,
+MATH-794z,Doctoral Dissertation,
+BUAD-101,Freshman Leadership Seminar,
+BUAD-111,World Bachelor in Business Program Freshman Academy,Marion Philadelphia
+BUAD-112,AI for Business Freshman Academy,Charlie Hannigan
+BUAD-200x,Economic Foundations for Business,
+BUAD-201x,Introduction to Business for Non-Majors,
+,,
+BUAD-252,Choosing and Planning a Future Career in Business,Andrew Ogilvie
+BUAD-280,Introduction to Financial Accounting,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+BUAD-281,Introduction to Managerial Accounting,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+BUAD-301,Technology Entrepreneurship,
+,,
+BUAD-302,Communication Strategy in Business,Maria Colman
+,,Andrew Ogilvie
+,,Maria Colman
+,,Maria Colman
+,,Stacy Geck
+,,Pavitra Kavya
+,,Stacy Geck
+,,Pavitra Kavya
+,,Stacy Geck
+,,James Owens
+,,Trevor Wiseman
+,,Kevin Caporicci
+,,Trevor Wiseman
+,,James Owens
+,,Madge Gaynor
+,,Madge Gaynor
+,,Jason Frenn
+,,Stephen Lind
+,,Stephen Lind
+,,Jason Frenn
+,,Cesar Armendariz
+BUAD-304,Organizational Behavior and Leadership,Thomas Cummings
+,,Thomas Cummings
+,,Thomas Cummings
+,,Marco Aponte-Moreno
+,,
+,,
+,,Nik Lewis
+,,Nik Lewis
+,,Nik Lewis
+,,Eric Anicich
+,,Agnes Andor
+,,Eric Anicich
+,,Lynn Robinson
+,,Shannon Faris
+,,Nik Lewis
+,,Jody Tolan
+,,Jody Tolan
+,,Agnes Andor
+,,Gordon Ho
+BUAD-305,Abridged Core Concepts of Accounting Information,Ruben Davila
+,,Ruben Davila
+,,
+BUAD-306,Business Finance,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+BUAD-307,Marketing Fundamentals,Nofar Duani
+,,Nofar Duani
+,,Nofar Duani
+,,Giovanni Luca Cascio Rizzo
+,,Giovanni Luca Cascio Rizzo
+,,Giovanni Luca Cascio Rizzo
+,,Giovanni Luca Cascio Rizzo
+,,Giovanni Luca Cascio Rizzo
+,,Joseph Priester
+,,Joseph Priester
+,,Joseph Priester
+,,Joseph Priester
+,,Joseph Priester
+,,Joseph Priester
+,,Lars Perner
+,,Lars Perner
+,,Lars Perner
+,,Lars Perner
+,,Lars Perner
+,,Lars Perner
+,,Rex Kovacevich
+,,Rex Kovacevich
+,,Rex Kovacevich
+,,Rex Kovacevich
+,,Rex Kovacevich
+,,Rex Kovacevich
+BUAD-308,Advanced Business Finance,
+,,
+,,
+,,
+BUAD-310g,Applied Business Statistics,Charlie Hannigan
+,,Charlie Hannigan
+,,Charlie Hannigan
+,,Charlie Hannigan
+,,Charlie Hannigan
+,,Francis Pereira
+,,Francis Pereira
+,,Francis Pereira
+,,Francis Pereira
+,,Francis Pereira
+,,Keith Robinson
+,,Keith Robinson
+,,Keith Robinson
+,,Keith Robinson
+,,Keith Robinson
+,,Cosimo Arnesano
+,,Cosimo Arnesano
+,,Cosimo Arnesano
+,,Cosimo Arnesano
+,,Cosimo Arnesano
+,,Waverly Wei
+,,Waverly Wei
+,,Waverly Wei
+,,Waverly Wei
+,,Waverly Wei
+BUAD-311,Operations Management,Sebnem Manolya Demir
+,,Kathy Takayama
+,,Kathy Takayama
+,,Kathy Takayama
+,,Kathy Takayama
+,,Angela Zhou
+,,Angela Zhou
+,,Angela Zhou
+,,
+,,
+,,
+BUAD-312g,Statistics and Data Science for Business,Jacob Bien
+,,Tianmin Xie
+,,Jacob Bien
+BUAD-313,Advanced Operations Management and Analytics,Paat Rusmevichientong
+,,Paat Rusmevichientong
+BUAD-315x,Basics of Project and Operations Management for Non-Majors,Vitaly Glozman
+BUAD-425,Introduction to Business Analytics,Robertas Gabrys
+,,Robertas Gabrys
+,,Robertas Gabrys
+,,Robertas Gabrys
+,,Inga Maslova
+,,Robertas Gabrys
+,,Robertas Gabrys
+,,Inga Maslova
+,,Inga Maslova
+BUAD-490x,Directed Research,Marion Philadelphia
+,,Marion Philadelphia
+,,
+BUAD-494,Marshall Honors Research and Thesis,
+,,
+,,Sriram Dasu
+BUAD-497,Strategic Management,John Robinson
+,,Melody Chang
+,,Melody Chang
+,,Courtney Brunious
+,,Marina Mesin Zagar
+,,Courtney Brunious
+,,Melody Chang
+,,John Eklund
+,,John Eklund
+,,Arvind Ramakrishnan
+,,Marina Mesin Zagar
+,,Marina Mesin Zagar
+,,Reza Bavafa
+ECON-101g,"Free People, Free Thought and Free Markets",Scott Soames Thomas Chaney
+ECON-203g,Principles of Microeconomics,Brijesh Pinto
+,,
+,,
+,,
+,,
+,,
+,,
+,,Xin Jiang
+,,
+,,
+,,
+,,
+,,Yilmaz Kocer
+,,
+,,
+,,
+,,
+ECON-205g,Principles of Macroeconomics,Diego de Sousa Rodrigues
+,,
+,,
+,,
+,,
+,,Jaime Meza
+,,
+,,
+,,
+,,
+ECON-303,Intermediate Microeconomic Theory,Yilmaz Kocer
+,,Ergin Bayrak
+,,Ergin Bayrak
+,,Daniel Bennett
+ECON-305,Intermediate Macroeconomic Theory,Jaime Meza
+,,Robert Dekle
+,,Lodovico Pizzati
+,,Mark Moore
+ECON-317,Introduction to Statistics for Economists,Lodovico Pizzati
+,,Manochehr Rashidian
+,,Manochehr Rashidian
+,,Lodovico Pizzati
+ECON-318,Introduction to Econometrics,Manochehr Rashidian
+,,
+,,
+,,Italo Lopez Garcia
+,,
+,,
+,,Adam Kaufman
+,,
+,,
+ECON-343,Economic Development of East Asia,
+ECON-344,Economic Development of Sub-Saharan Africa,John Strauss
+ECON-351x,Microeconomics for Business,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+ECON-352x,Macroeconomics for Business,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+ECON-357,"Money, Credit, and Banking",
+,,Ladan Masoudie
+ECON-366,Urban Economics,
+ECON-395,Economic Policy Issues,
+ECON-404,Games and Economics,Juan Carrillo
+ECON-420,Experimental Economics,Juan Carrillo
+ECON-450,International Trade,Terrie Walmsley
+ECON-452,International Finance,Mark Moore
+ECON-457,Financial Markets,
+,,Steven Sapra
+ECON-460,Economic Applications of Machine Learning,Dong Woo Hahm
+ECON-464,The Principles of Market Design,
+ECON-474,Economic Consulting and Applied Managerial Economics,Jeffrey Dubin
+ECON-475,"Topics in Philosophy, Politics and Economics",
+ECON-480,Economics of Industrial Organization,Ziyi Qiu
+ECON-487,Resource and Environmental Economics,Matthew Kahn
+ECON-490x,Directed Research,
+ECON-495,Honors Thesis,
+ECON-500,Microeconomic Analysis and Policy,Daniel Bennett
+,,Brijesh Pinto
+,,Ergin Bayrak
+,,Brijesh Pinto
+ECON-501,Macroeconomic Analysis and Policy,Matthew Delventhal
+,,
+,,Ladan Masoudie
+,,Matthew Delventhal
+ECON-504,Game Theory with Economic and Financial Applications,Yilmaz Kocer
+,,Yilmaz Kocer
+ECON-508,Neurofinance,Giorgio Coricelli
+ECON-513,Practice of Econometrics,Manochehr Rashidian
+,,Dong Woo Hahm
+,,Manochehr Rashidian
+,,Geert Ridder
+ECON-515,Time Series Analysis,Ratika Narag
+,,Ratika Narag
+ECON-564,Introduction to Market Design,Nicolas Lambert
+ECON-570,Big Data Econometrics,Dong Woo Hahm
+,,
+,,Dong Woo Hahm
+ECON-571,Economics of Digital Platforms,Ziyi Qiu
+,,Ziyi Qiu
+ECON-577,Foundations of Financial Economics,Steven Sapra
+ECON-581,"Industrial Organization, Innovation and Applications",Ziyi Qiu
+ECON-584,Economic Consulting and Applied Econometrics,Jeffrey Dubin
+,,Jeffrey Dubin
+ECON-585,Advanced Economics Consulting and Antitrust Methods,Jeffrey Dubin
+ECON-590,Directed Research,
+ECON-593x,Practicum in Teaching the Liberal Arts,
+ECON-596,Internship for Curricular Practical Training,
+ECON-601,Microeconomic Theory I,Nicolas Lambert Jonathan Libgober
+ECON-602,Macroeconomic Theory I,Caroline Betts Monica Morlacco
+ECON-608,Advanced Neuroeconomics,Giorgio Coricelli
+ECON-611,Probability and Statistics for Economists,Geert Ridder
+ECON-613,Economic and Financial Time Series I,Hyungsik Roger Moon
+ECON-620L,Experimental Methods I,Isabelle Brocas
+ECON-636,Health Economics I,
+ECON-641,Empirical Analysis of Economic Development,Vittorio Bassi
+ECON-642,"Poverty, Human Resources and Economic Development",John Strauss
+ECON-650,International Trade Theory,Thomas Chaney Monica Morlacco
+ECON-686a,Empirical Methods in Economics,Timothy Armstrong Daniel Bennett John Strauss
+ECON-688,Empirical Industrial Organization,
+ECON-690,Seminar in Economic Theory,Nicolas Lambert
+ECON-691,Seminar in Econometrics,Yuehao Bai
+ECON-692,Seminar in Economic Development,
+ECON-693,Seminar in Applied Economics and Public Policy,Juan Carrillo
+ECON-694,Seminar in Dynamic Economics,Marianne Andries Thomas Chaney
+ECON-696,Empirical Microeconomics Seminar,
+ECON-700,Research on Frontier Economics,
+,Applied Micro Reading Group,Paulina Oliva
+,Applied Micro Reading Group,Vittorio Bassi
+,Econometrics Reading Group,Geert Ridder
+,Macro Reading Group,Marianne Andries Thomas Chaney
+,Micro Reading Group,Jonathan Libgober
+ECON-794a,Doctoral Dissertation,
+ECON-794b,Doctoral Dissertation,
+ECON-794c,Doctoral Dissertation,
+ECON-794d,Doctoral Dissertation,
+ECON-794z,Doctoral Dissertation,
+ENGR-100a,Engineering Honors Colloquium,
+ENGR-100b,Engineering Honors Colloquium,
+ENGR-102,Engineering Freshman Academy,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+ENGR-301,Technology Entrepreneurship,
+,,
+ENGR-395ax,Cooperative Education Work Experience,
+ENGR-395bx,Cooperative Education Work Experience,
+ENGR-395cx,Cooperative Education Work Experience,
+ENGR-395dx,Cooperative Education Work Experience,
+ENGR-400,Engineering Honors Projects,
+ENGR-445,Principles and Practices of Global Innovation,Stephen Lu
+,,Stephen Lu
+ENGR-492,Thought Leadership in a Technologically Changing World,
+ENGR-494,Technology Development and Commercialization,
+PSYC-100Lg,Introduction to Psychology,Kyoung sook Kim
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,Kyoung sook Kim
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,Patricia George
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,Laila Madni
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+PSYC-210mgw,Social Analysis of Gender,Chris Belcher
+,,
+,,
+,,
+,,
+,,
+,,
+PSYC-274Lg,Statistics,Meng Chen
+,,
+,,
+,,David Walsh
+,,
+,,
+,,Canan Ipek
+,,
+,,
+,,Rand Wilcox
+,,
+,,
+,,William Breland
+,,
+,,
+,,Canan Ipek
+,,
+,,
+,,David Walsh
+,,
+,,
+PSYC-275Lg,Language and Mind,Barry Schein Toby Mintz
+,,
+,,
+,,
+,,
+PSYC-290,Supervised Research in Psychology,Antoine Bechara
+PSYC-301L,Cognitive Processes,Vitaliya Droutman
+,,Bryan Shilowich
+PSYC-304L,Sensation and Perception,Clayton Stephenson
+PSYC-305,Learning and Memory,Clayton Stephenson
+PSYC-314L,Experimental Research Methods,Kyoung sook Kim
+,,
+,,
+,,Clayton Stephenson
+,,
+,,
+PSYC-316L,Non-Experimental Research Methods,Bryan Shilowich
+,,
+,,
+,,Bryan Shilowich
+,,
+,,
+PSYC-326,Behavioral Neuroscience,Shirin Birjandi
+PSYC-336L,Developmental Psychology,Michael Cameron
+,,Vitaliya Droutman
+,,Vitaliya Droutman
+PSYC-337L,Adult Development and Aging,David Walsh
+PSYC-353g,Close Relationships,Miranda Barone
+,,Miranda Barone
+PSYC-355,Social Psychology,Miranda Barone
+,,Elisa Baek
+PSYC-360,Psychological Disorders,David Schwartz
+,,Sourena Haj-Mohamadi
+,,Iony Ezawa
+,,Sourena Haj-Mohamadi
+PSYC-361,Introduction to Clinical Psychology,Gerald Davison
+PSYC-363,Criminal Behavior,Lorraine Cuadra
+PSYC-367g,"Stress, Health, and the Mind-Body Connection",Bruna Klein
+,,Bruna Klein
+PSYC-406,Psycholinguistics,
+PSYC-424,Neuropsychology,Shirin Birjandi
+PSYC-426,Motivated Behaviors and Addiction,John Monterosso
+PSYC-427,Neuropsychopharmacology,Shirin Birjandi
+PSYC-433,Children's Learning and Cognitive Development,Sandy LaTourrette
+PSYC-434,"Intelligence, Problem Solving and Creativity",William Breland
+PSYC-436,Developmental Neuroscience of Human Behavior,Santiago Morales
+PSYC-437,Adolescent Development,David Schwartz
+PSYC-440,Foundations of Cognitive Neuroscience,Jason Zevin
+PSYC-450,Neural Network Models of Social and Cognitive Processes,Stephen Read
+PSYC-452,Social Neuroscience,Leor Hackel
+PSYC-459,Industrial/Organizational Psychology,Maura Harrington Roggero
+PSYC-464,Psychology of Marriage and the Family,Patricia George
+PSYC-468,Happiness: Research in Neuroscience and Positive Psychology,Patricia George
+PSYC-490x,Directed Research,Antoine Bechara
+PSYC-501L,Classic and Modern Statistical Methods I,Rand Wilcox
+PSYC-505,Research Methods in Applied Social Psychology,Meredith Lepley
+,,Meredith Lepley
+,,
+PSYC-509,Qualitative Research Methods in Applied Psychology,
+,,
+PSYC-512,Seminar in Social Psychology,Daphna Oyserman
+PSYC-514,Psychopathology,Jonathan Stange
+PSYC-515,Clinical Assessment,Duke Han Jenna Axelrod
+,,Jenna Axelrod Duke Han
+PSYC-517,Group Dynamics and Leadership,Lauren Young
+PSYC-519,Professional Issues for Clinical Scientists,Brittany Beasley
+PSYC-521,Cross Cultural Psychology in Applied Settings,Michael Nguyen
+PSYC-523,User Experience (UX) Research,Jason Buhle
+PSYC-530,Concepts and Principles of Behavior Analysis,Megan Aclan
+PSYC-531,Behavioral Assessment,Michael Cameron
+PSYC-532,Ethics for Behavior Analysts,Sneha Mathur
+PSYC-533,Applied Developmental Psychology,
+PSYC-547,Functional Neuroanatomy,Antoine Bechara
+PSYC-550a,Proseminar in Human Behavior,
+PSYC-551,Decision Neuroscience,Payam Piray
+PSYC-552,Principles of Consumer Psychology,Steven Westberg
+,,
+,,Steven Westberg
+PSYC-555,Introduction to Functional Magnetic Resonance Imaging,Jonas Kaplan
+PSYC-565x,Organizational Psychology,
+PSYC-571,Foundations of Statistical and Data Analytic Methods in Psychology,Canan Ipek
+PSYC-575L,Multilevel Modeling,Hok Chio (Mark) Lai
+PSYC-576,Psycholinguistics,
+PSYC-577,Analysis of Covariance Structures,Christopher Beam
+PSYC-587,Practicum in Applied Behavior Analysis,Michael Cameron
+,,Megan Aclan
+PSYC-590,Directed Research,
+,,Antoine Bechara
+PSYC-593,Practicum in Teaching Psychology,Sourena Haj-Mohamadi
+PSYC-594a,Master's Thesis,Antoine Bechara
+,,Jonathan Tarbox
+PSYC-594b,Master's Thesis,Antoine Bechara
+PSYC-594z,Master's Thesis,Jonathan Tarbox
+PSYC-595,Practicum in Clinical Psychology,Latonya Huey
+,,Gerald Davison
+PSYC-596,Advanced Behavioral Theory,Jonathan Tarbox
+PSYC-597,Internship for Curricular Practical Training,Antoine Bechara
+,,Antoine Bechara
+PSYC-597a,Capstone Project in Behavioral Analysis,Sneha Mathur
+PSYC-599,Special Topics,
+,Computational Models of Cognition,Nina Rouhani
+PSYC-612,Seminar in Advanced Social Psychology,Leor Hackel
+PSYC-626,Text as Data,Morteza Dehghani
+PSYC-676,Seminar in Psycholinguistics,
+PSYC-691a,Internship in Clinical Psychology,Darby Saxbe
+PSYC-695,Advanced Practicum in Clinical Psychology,Christopher Beam
+,,
+,,Brittany Beasley
+,,Lauren Shapiro
+PSYC-696,Externship for Practical Training,Brittany Beasley
+PSYC-790,Research,Antoine Bechara
+PSYC-794a,Doctoral Dissertation,Antoine Bechara
+PSYC-794b,Doctoral Dissertation,Antoine Bechara
+PSYC-794c,Doctoral Dissertation,Antoine Bechara
+PSYC-794d,Doctoral Dissertation,Antoine Bechara
+PSYC-794z,Doctoral Dissertation,Antoine Bechara
+COMM-200,Communication and Social Science,Jillian Pierson
+,,
+,,
+,,
+,,
+COMM-204,Public Speaking,Rook Campbell
+,,Adam Navarro
+,,Perry Johnson
+,,Adam Navarro
+,,Michael Wissot
+,,
+,,Adam Navarro
+,,
+COMM-205x,Communication Practicum,
+COMM-206,Communication and Culture,Alison Trope
+,,
+,,
+,,
+,,
+COMM-209,Communication and Media Economics,Hernan Galperin
+,,
+,,
+,,
+COMM-301Lg,Empirical Research in Communication,Carmen Lee
+COMM-302,Persuasion,Sean Kennedy
+COMM-304,Interpersonal Communication,Jillian Pierson
+COMM-305,Understanding Social Science Research,Marlon Twyman
+COMM-309,Communication and Technology,FranÃ§ois Bar
+COMM-311,Communication and Publics,Daniel Durbin
+COMM-312,The Business and Culture of Celebrity,Nazli Offringa
+COMM-313,Screen time: How Media Shapes Us,Carmen Lee
+COMM-314,The Evolution of K-Pop,Hye Jin Lee
+COMM-320,Small Group and Team Communication,Julianna Kirschner
+COMM-321,Communication and Social Media,Hye Jin Lee
+COMM-322,Argumentation and Advocacy,Carlos Godoy
+,,
+,,Kiran Dhillon
+,,Kiran Dhillon
+,,Teresa Delfin
+,,Kiran Dhillon
+,,Carlos Godoy
+COMM-324mw,Intercultural Communication,Jillian Pierson
+COMM-326,Latinx Media Studies,Teresa Delfin
+COMM-330p,Rhetoric in Classical Culture,Daniel Durbin
+COMM-339,Communication Technology and Culture,Morten Bay
+COMM-345,Social and Economic Implications of Communication Technologies,Angel Hwang
+COMM-350,"Video Games: Business, Science and Culture",Dmitri Williams
+COMM-360,Los Angeles: Communication and Culture,Taj Frazier
+COMM-367,Community Engagement and Service Learning,Alison Trope
+COMM-375,Business and Professional Communication,Karen North
+,,Michael Wissot
+COMM-380,Forensics Laboratory,Sean Kennedy
+,,Sean Kennedy
+COMM-381,Issues in Contemporary Sport,Rook Campbell
+COMM-382,"Sports, Business and Media in Today's Society",Jeff Fellenzer
+COMM-383m,"Sports, Communication and Culture",Daniel Durbin
+COMM-384,Interpreting Popular Culture,Perry Johnson
+COMM-385,Organizational Communication,Marlon Twyman
+COMM-387,Sports and Social Change,Julianna Kirschner
+COMM-395m,"Gender, Media and Communication",Daniela Baroffio
+COMM-396g,"Fashion, Media and Culture",Alison Trope
+COMM-402,Public Communication Campaigns,Lindsay Young
+COMM-403,"Canceled, Shamed, Accused: Contemporary Crisis Communication",Karen North
+COMM-412,Communication and Social Movements,Teresa Delfin
+COMM-422,Legal Issues and New Media,Carlos Godoy
+COMM-430,Global Entertainment,Paolo Sigismondi
+COMM-443,Communicating Better Health: What Works and Why,Nazli Offringa
+COMM-445,Global Networks of Sport,Rook Campbell
+COMM-449,Perspectives on the Networked Press,Mike Ananny
+COMM-450,Visual Culture and Communication,Taj Frazier
+COMM-456,"Entertainment, Marketing and Culture",Karen North
+COMM-457,Youth and Media,Hye Jin Lee
+COMM-489,Campaign Communication,Tom Hollihan
+COMM-490,Directed Research,
+,,
+,,
+COMM-494x,Research Practicum,
+,,
+,,
+COMM-495,Honors Seminar,Mike Ananny
+COMM-498,Ethical Issues in Entertainment and Communication,Robert Scheer
+COMM-502,Theoretical Approaches to Multidisciplinary Design Projects,Colin Doty
+,,Morten Bay
+,,Morten Bay
+COMM-522,Kenneth Burke's Dramatistic Theory,Tom Hollihan
+COMM-526,Humanistic and Social Scientific Approaches to Human Communication II,Henry Jenkins
+COMM-552,Qualitative Research Methods in Communication,Patricia Riley
+COMM-557,Data Science for Communication and Social Networks,Luca Luceri
+COMM-559,"Globalization, Communication and Society",Manuel Castells
+COMM-585,Organizational Communication,Patricia Riley
+COMM-615,Health Communication,Robin Stevens
+COMM-616,Meta-Analysis in Health Communication,Lynn Miller
+COMM-620,Studies in Communication Theory,
+,The Practice of Research,Lindsay Young
+COMM-647x,Network Society,Manuel Castells
+COMM-649,Methodologies in Cultural Studies,Cristina Visperas
+COMM-650,Survey Construction and Validation,Sheila Murphy
+COMM-672,Experiments in Critical Writing,Josh Kun
+COMM-675,Independent Study,
+,,
+,,
+,,
+,,
+COMM-694,Preliminary Research Paper,
+,,
+COMM-790,Research,
+,,
+,,
+,,
+COMM-794a,Doctoral Dissertation,
+COMM-794b,Doctoral Dissertation,
+COMM-794c,Doctoral Dissertation,
+COMM-794d,Doctoral Dissertation,
+COMM-794z,Doctoral Dissertation,
+BISC-101Lxg,Cellular and Molecular Biology,Raffaella Ghittoni
+,,
+,,
+,,
+BISC-102Lxg,Humans and Their Environment,Carly Kenkel
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+BISC-104Lxg,How the Body Works,Rita Barakat
+,,
+,,
+,,
+,,
+,,
+,,
+BISC-108L,Special Laboratory I,Cameron Egan
+BISC-109L,Special Laboratory II,Cameron Egan
+BISC-120Lg,General Biology: Organismal Biology and Evolution,Cameron Egan
+,,Trond Sigurdsen
+,,Andrew Gracey
+,,Cameron Egan
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+BISC-121Lg,Advanced General Biology: Organismal Biology and Evolution,Jed Fuhrman David Hutchins
+,,Christa Bancroft Raffaella Ghittoni
+,,
+,,
+,,Nancy Castro
+,,Rory Spence
+BISC-150Lxg,The Nature of Human Health and Disease,Raffaella Ghittoni Rory Spence
+,,
+,,
+,,
+,,
+,,
+,,
+BISC-193,Introduction to Research I,Albert Herrera
+BISC-220Lg,General Biology: Cell Biology and Physiology,Albert Herrera
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+BISC-230Lxg,The Biology of the Brain,Rita Barakat
+,,
+,,
+,,
+BISC-290,Introduction to Biological Research,Cameron Egan
+,,Cameron Egan
+BISC-314L,Cell Culture,Rory Spence
+,,
+BISC-315L,Introduction to Ecology,Cameron Egan
+,,
+BISC-320Lg,Molecular Biology,Oscar Aparicio Irene Chiolo Carolyn Phillips
+,,Oscar Aparicio Irene Chiolo Carolyn Phillips
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+BISC-325,Genetics,Sergey Nuzhdin Trond Sigurdsen
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+BISC-330L,Biochemistry,Christa Bancroft Grayson Jaggers
+,,
+,,
+,,
+BISC-350,Bioethics,Nancy Castro
+BISC-365,Phylogenetics and Evolution,Trond Sigurdsen
+BISC-372,Cell Biology,Rory Spence Xianrui Cheng
+,,
+BISC-401,Introduction to Computational Analysis of Biological Data,Peter Calabrese
+,,
+,,
+,,
+BISC-403,Advanced Molecular Biology,Oscar Aparicio Irene Chiolo Matt Michael
+,,
+,,
+BISC-406L,Biotechnology,Christa Bancroft
+,,
+BISC-421,Neurobiology,Dion Dickman Emily Liman Lauren McElvain
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+BISC-438,Nutritional Biochemistry,Grayson Jaggers
+BISC-444,Practical Analysis of Biological Data in R,Matt Dean
+,,Matt Dean
+BISC-450L,Principles of Immunology,Raffaella Ghittoni
+,,
+,,
+BISC-460,Seminar in Marine and Environmental Biology,
+,CEED Seminar Series,Cameron Egan
+BISC-461,Seminar in Molecular and Computational Biology,
+,The Cellular Basis of Learning and Memory,Don Arnold
+BISC-462,Seminar in Neurobiology,
+,Systems Neuroscience: From Foundational Studies to Today,Judith Hirsch
+BISC-473L,Biological Oceanography,Jed Fuhrman Naomi Levine
+,,
+,,
+BISC-487,"Regenerative Medicine: Principles, Paradigms and Practice",
+BISC-490x,Directed Research,Cameron Egan
+BISC-493x,Honors Seminar,Suzanne Edmands John Tower
+BISC-494x,Honors Thesis,Suzanne Edmands John Tower
+BISC-502a,Molecular Genetics and Biochemistry,Xianrui Cheng Irene Chiolo Carolyn Phillips Ian Ehrenreich
+BISC-504L,Laboratory Techniques in Cellular and Molecular Biology,Carolyn Phillips
+BISC-515,Evolution and Human Biology,Craig Stanford Michael Campbell Tito Borner Chrisandra Kufeldt
+BISC-529,Seminar in Marine Biology,Andrew Steen
+BISC-532,Advanced Seminar in Molecular and Microbial Ecology,Jed Fuhrman Douglas Capone
+BISC-533,Advanced Seminar in Remote Sensing and Modeling,Dale Kiefer James Moffett
+BISC-541,Introduction to Scientific Journal Writing,David Hutchins
+BISC-542,Seminar in Molecular Biology,Susan L Forsburg
+BISC-544,Advanced Reading in Molecular Biology,Susan L Forsburg
+,,Cornelius Gati
+BISC-546,Hypothesis Design and Scientific Writing,Derrick Morton Carolyn Phillips
+BISC-549,Seminar in Integrative and Evolutionary Biology,Casey Donovan
+BISC-580,Readings in Marine and Environmental Biology,Eric Webb
+BISC-588,Introduction to Bioinformatics,Carly Kenkel Naomi Levine
+BISC-590,Directed Research,Lorraine Turcotte
+BISC-593,Practicum in Teaching the Biological Sciences,Rory Spence
+,,Chrisandra Kufeldt
+BISC-596,Internship for Curricular Practical Training,Lorraine Turcotte
+BISC-790,Research,Lorraine Turcotte
+BISC-794a,Doctoral Dissertation,
+BISC-794b,Doctoral Dissertation,
+BISC-794c,Doctoral Dissertation,
+BISC-794d,Doctoral Dissertation,
+BISC-794z,Doctoral Dissertation,
+ACCT-370,External Financial Reporting Issues,
+,,
+,,
+,,
+ACCT-371,Introduction to Accounting Systems,Andreas Simon
+,,Andreas Simon
+,,Andreas Simon
+,,Andreas Simon
+ACCT-405,Introduction to Sustainability Reporting,Patricia Dechow
+ACCT-410x,Foundations of Accounting,Zivia Wilson Sweeney
+,,
+,,Zivia Wilson Sweeney
+,,Tracie Majors
+,,
+,,Ruben Davila
+ACCT-416,Financial Statement Analysis,Tony Aaron
+,,Tony Aaron
+ACCT-451,Tax Analysis with Data Analytics,Shiing-Wu Wang
+,,Shiing-Wu Wang
+,,Shiing-Wu Wang
+ACCT-456,Auditing with Data Analytics,Tracie Majors
+,,Tracie Majors
+,,Tracie Majors
+ACCT-470,Advanced External Financial Reporting Issues,Smrity Randhawa
+ACCT-490x,Directed Research,
+ACCT-494,Marshall Honors Research and Thesis,Maria Ogneva
+ACCT-505,Business Sustainability Reporting and Analysis,Patricia Dechow
+,,Patricia Dechow
+ACCT-528,"Fair Value Accounting: GAAP, IFRS and Emerging Issues",
+,,
+,,
+,,
+ACCT-529,Tax Data Analytics,Charles Swenson
+ACCT-531t,Taxation of Cross-Border Transactions Using Data Analytics,Charles Swenson Shiing-Wu Wang
+,,Charles Swenson Shiing-Wu Wang
+ACCT-532,Financial Accounting for Mergers and Acquisitions,
+,,
+ACCT-533,Mergers and Acquisitions: Tax Planning and Strategy,Shiing-Wu Wang
+,,Shiing-Wu Wang
+ACCT-549,Advanced Enterprise Systems and Technologies,Daniel O'Leary
+,,Daniel O'Leary
+ACCT-551t,Taxation of Partnerships,Michael Paranal
+ACCT-554t,"Research, Theory and Ethics in Taxation",Jack Barcal Diane Comi
+,,Jack Barcal Diane Comi
+ACCT-559,Strategy and Operations Through CFO Lens,Herbert Perlmutter
+,,Herbert Perlmutter
+,,Herbert Perlmutter
+,,Herbert Perlmutter
+ACCT-561t,Income Tax of Corporations and Their Shareholders,
+ACCT-581,Financial Statement Analysis,Richard Sloan
+,,Richard Sloan
+ACCT-583,Income Tax Accounting and Auditing,Paul Bader
+ACCT-585,Professional Responsibilities in Accounting,Lori Smith
+,,Lori Smith
+ACCT-611,Selected Topics in Accounting Research,Clive Lennox
+ACCT-621,Research Forum,Clive Lennox
+AHIS-100g,Introduction to Visual Culture,Samantha Burton
+,,
+,,
+,,
+,,
+,,
+,,
+AHIS-120gp,Foundations of Western Art: Prehistoric to Renaissance,Hector Reyes
+,,
+,,
+,,
+,,
+,,
+,,
+AHIS-125gp,Arts of Asia: Antiquity to 1300,
+,,
+,,
+AHIS-201g,Digging into the Past,John Pollini
+,,
+,,
+AHIS-304mg,"Art, Power and Identity in Renaissance Italy",Lisa Pon
+AHIS-321,Greek Art and Archaeology,John Pollini
+AHIS-324,Late Antique Art and Archaeology,Ann Marie Yasin
+AHIS-344,Baroque Art,Hector Reyes
+AHIS-366g,"Picturing Democracy: American Art and Visual Culture, 1750-1900",Kate Flint
+AHIS-369,Modern Art II: 1851-1940,Amy Ogata
+AHIS-373g,History and Theory of Photography,Samantha Burton
+AHIS-400x,Undergraduate Apprenticeship,
+AHIS-415,Object-Worlds: Histories and Theories of Things,Ann Marie Yasin
+AHIS-449,History of Prints and Drawings,Lisa Pon
+AHIS-483,East Asian Garden and Designed Landscape,Miya Elise Desjardins
+AHIS-490x,Directed Research,
+AHIS-494,Undergraduate Proseminar in Art History,Hector Reyes
+AHIS-495a,Undergraduate Honors Thesis,
+AHIS-495b,Undergraduate Honors Thesis,
+AHIS-500,Methods and Theory of Art History,Vittoria Di Palma
+AHIS-515,Seminar in Contemporary Art,Suzanne Hudson
+AHIS-590,Directed Research,
+AHIS-593x,Practicum in Teaching the Liberal Arts,
+AHIS-790,Research,
+AHIS-794a,Doctoral Dissertation,
+AHIS-794b,Doctoral Dissertation,
+AHIS-794c,Doctoral Dissertation,
+AHIS-794d,Doctoral Dissertation,
+AHIS-794z,Doctoral Dissertation,
+AMST-101mgw,Race and Class in Los Angeles,Chrisshonna Nieva
+,,
+,,
+,,
+,,
+,,
+,,
+AMST-135mgw,Peoples and Cultures of the Americas,Alicia Chavez
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+AMST-150gw,The American War in Viet Nam,Rick Berg
+,,
+,,
+AMST-200mg,Introduction to American Studies and Ethnicity,Alicia Chavez
+,,
+,,
+,,
+,,
+AMST-201g,LGBTQ America,Joshua Mitchell
+AMST-205g,Introduction to American Popular Culture,Joshua Mitchell
+,,
+,,
+AMST-206mg,The Politics and Culture of the 1960s,Chrisshonna Nieva
+,,
+,,
+AMST-252mgw,Black Social Movements in the U.S.,Francille Wilson
+,,
+,,
+,,
+,,
+,,
+,,
+AMST-274mw,Exploring Ethnicity through Film,Chris Finley
+,,
+,,
+AMST-301gp,"America, the Frontier, and the New West",Chris Finley
+,,
+,,
+,,
+,,
+,,
+,,
+AMST-326,Latinx Media Studies,Teresa Delfin
+AMST-328,Asian American Politics,Jane Junn
+AMST-343,"Food, Health and Culture in Los Angeles",Sarah Portnoy
+AMST-345,Law and American Indian Studies,Deanna Rivera
+AMST-350,Junior Seminar in American Studies and Ethnicity: Theories and Methods,Chris Finley
+AMST-365,Leadership in the Community -- Internship,Stanley Huey
+AMST-383,Jews in American Popular Culture,Leah Hochman
+AMST-392,Undergraduate Research Methods,George Sanchez
+AMST-406,Social Media Storytelling for Latinx Audiences,Amara Aguilar
+AMST-414,Latina/o Screen Cultures,Laura Isabel Serna
+AMST-424m,Political Participation and American Diversity,Morris Levy
+AMST-490x,Directed Research,
+,,
+AMST-492,Research Methods in American Studies and Ethnicity,Lanita Jacobs
+AMST-500,Introduction to American Studies and Ethnicity,Natalia Molina
+AMST-552,Archives and Subcultures,Nayan Shah
+AMST-554,Readings in Chicano/Latino History,George Sanchez
+AMST-562,The Practice of Ethnography,Eduardo Romero Dianderas
+AMST-590,Directed Research,
+AMST-593,Practicum in Teaching the Liberal Arts: American Studies,Alicia Chavez
+AMST-680,Interdisciplinary Research Seminar in Cultural Studies,John Rowe
+AMST-700,Theories and Practices of Professional Development,John Rowe
+AMST-790,Research,
+AMST-794a,Doctoral Dissertation,
+AMST-794b,Doctoral Dissertation,
+AMST-794c,Doctoral Dissertation,
+AMST-794d,Doctoral Dissertation,
+AMST-794z,Doctoral Dissertation,
+ANTH-101g,"Body, Mind and Healing: Introduction to Medical Anthropology",Erin Moore
+ANTH-105g,"Culture, Medicine and Politics",Silvana Matassini Eyzaguirre
+ANTH-140g,Mesoamerican Cosmovision and Culture,Eric Heller
+,,Eric Heller
+,,Eric Heller
+,,Eric Heller
+,,Eric Heller
+ANTH-200Lg,The Human Animal,Chrisandra Kufeldt
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+ANTH-201g,Introduction to Social and Cultural Anthropology,Emily Zeamer
+,,
+,,
+,,
+,,
+ANTH-202g,Archaeology: Our Human Past,Tracie Mayfield
+,,Tracie Mayfield
+,,Tracie Mayfield
+,,Tracie Mayfield
+,,Tracie Mayfield
+ANTH-203g,Global Media,Jennifer Cool
+ANTH-205g,Introduction to Global Studies and Cross-cultural Research,Hrag Papazian
+ANTH-220g,Anthropology of the Environment,Eduardo Romero Dianderas
+ANTH-263g,Exploring Culture through Film,Xochitl Ruiz
+,,
+,,
+,,
+,,
+,,Jennifer Cool
+,,
+,,
+,,
+,,
+ANTH-272,Mindfulness and Culture,Thomas Ward
+ANTH-273gw,"Shamans, Spirits and Ancestors: Non-Western Religious Tradit",Janet Hoskins
+ANTH-300,"Evolution, Ecology, and Culture",Michael Campbell
+ANTH-308,Origins and Evolution of Human Behavior,Chrisandra Kufeldt
+ANTH-316mgp,Native Americans in American Public Life,Tok Thompson
+,,Kristiana Willsey
+,,Kristiana Willsey
+,,Kristiana Willsey
+,,Kristiana Willsey
+ANTH-321,"Space, Place, Perception and Power",Eric Heller
+ANTH-332g,Anthropology and Narrative Medicine,Kristiana Willsey
+ANTH-336,"Health, Gender and Ethnicity",Atia Sattar
+ANTH-338g,Food in Culture and Society,Xochitl Ruiz
+ANTH-345,"Politics, Social Organization and Law",Erin Moore
+ANTH-372,Interpretation of Myth and Narrative,Tok Thompson
+ANTH-410,Ethnographic Research Methods,Fiori Berhane
+ANTH-415,Global Issues Seminar,Peter Redfield
+ANTH-440,History of Anthropological Theory,Xochitl Ruiz
+ANTH-441w,Cities of the Middle East,Bandar Alsaeed
+ANTH-490x,Directed Research,Peter Redfield
+ANTH-491,Directed Research for Honors,Peter Redfield
+ANTH-501,History and Foundations of Anthropology,Fiori Berhane
+ANTH-562,The Practice of Ethnography,Eduardo Romero Dianderas
+ANTH-570,Topics in Ethnographic Media Arts,
+,Ethnofiction,Stephanie Spray
+ANTH-575,Seminar in Ethnographic Film,Nancy Lutkehaus
+ANTH-590,Directed Research,Peter Redfield
+,,
+ANTH-593,Practicum for Teaching in Anthropology,Emily Zeamer
+ANTH-596,Internship for Curricular Practical Training,Peter Redfield
+ANTH-790,Research,Peter Redfield
+ASTR-100Lxg,The Universe,Nicholas Warner
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,Vahe Peroomian
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+ASTR-104L,Special Laboratory,
+ASTR-200Lg,Life in the Universe,Vahe Peroomian
+,,
+,,
+,,
+,,
+,,
+,,
+ASTR-400,The Solar System,Edward Rhodes
+ASTR-490x,Directed Research,
+BIOC-511,Foundations for Molecular Medicine,
+BIOC-561,Molecular Biology,
+BIOC-573,Optimal Research Presentations,
+BIOC-581,Toolbox for Biochemistry and Molecular Biology,Pragna Patel
+,,
+BIOC-582,Exploring the Path from Data to Publication,
+BIOC-590,Directed Research,
+BIOC-594a,Master's Thesis,
+BIOC-594b,Master's Thesis,
+BIOC-594z,Master's Thesis,
+BIOC-596,Internship for Curricular Practical Training,
+BIOC-790,Research,Sita Reddy
+BIOC-794a,Doctoral Dissertation,Sita Reddy
+BIOC-794b,Doctoral Dissertation,Sita Reddy
+BIOC-794c,Doctoral Dissertation,Sita Reddy
+BIOC-794d,Doctoral Dissertation,Sita Reddy
+BIOC-794z,Doctoral Dissertation,Sita Reddy
+CHEM-050x,General Chemistry Tutorial,
+CHEM-102,The Molecular World,Jessica Parr
+,,
+CHEM-103Lxg,General Chemistry for the Environment and Life,Thomas Bertolini
+,,
+,,
+,,
+,,
+,,
+,,
+CHEM-105aLg,General Chemistry,Thomas Bertolini
+,,
+,,Stuart Moon
+,,
+,,Jessica Parr
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+CHEM-105bL,General Chemistry,Rebecca Broyer
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+CHEM-107Lg,General Chemistry for Chemistry Majors,Alexander Benderskii
+,,
+,,
+,,
+,,
+,,
+CHEM-115aLg,Advanced General Chemistry,Hanna Reisler Jessica Parr
+,,
+,,
+,,
+,,
+,,
+CHEM-204Lg,"Pandemics Shaping Our World: Past, Present and Future",Charles Mc Kenna
+,,
+,,
+,,
+CHEM-205Lxg,"Chemical Forensics: The Science, and Its Impact",Thomas Bertolini Rebecca Broyer
+,,
+,,
+,,
+,,
+,,
+,,
+CHEM-250x,Organic Chemistry Tutorial A,Rebecca Broyer
+CHEM-290aL,Special Laboratory,
+CHEM-290bL,Special Laboratory,
+CHEM-290cL,Special Laboratory,
+CHEM-290dL,Special Laboratory,
+CHEM-292,Supervised Research,
+CHEM-294,Undergraduate Research Seminar,Susumu Takahashi
+CHEM-300L,Analytical Chemistry,Michael Inkpen
+,,
+,,
+,,
+,,
+CHEM-322aL,Organic Chemistry,Stuart Moon
+,,Kyung Jung
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+CHEM-322bL,Organic Chemistry,Rebecca Broyer
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+CHEM-325aL,Organic Chemistry,Travis Williams
+,,
+,,
+,,
+,,
+,,
+,,
+CHEM-330L,Biochemistry,Christa Bancroft Grayson Jaggers
+,,
+,,
+,,
+CHEM-350,Molecular Principles of Biochemistry,Chiho Mak
+,,
+,,
+,,
+,,
+CHEM-426,Advanced Organic Chemistry,Chao Zhang
+CHEM-430,Physical Chemistry: Thermodynamics and Kinetics,Jahan Dawlaty
+,,
+,,
+,,
+CHEM-467,Advanced Chemical Biology Laboratory,Peter Qin
+CHEM-490x,Directed Research,
+CHEM-494x,Advanced Research Experience,
+,,
+CHEM-515,Structure and Bonding in Inorganic and Organometallic Chemis,Richard Brutchey
+,,
+CHEM-516,"Synthesis, Reactivity, and Mechanism in Inorganic and Organo",Megan Fieser
+CHEM-521,Basic Principles of Physical Methods in Biochemistry,Peter Qin
+CHEM-526,Structure and Mechanism in Organic Chemistry,Elias Picazo
+,,
+CHEM-538,Mathematical Techniques of Physical Chemistry,Andrey Vilesov
+CHEM-544,Introduction to Quantum Chemistry,Susumu Takahashi
+CHEM-545,Theory and Practice of Molecular Electronic Structure,Anna Krylov
+CHEM-550,Special Topics in Chemical Physics,Curt Wittig
+CHEM-570,Seminar in Chemical Biology,Matthew Pratt
+CHEM-580,Current Topics in Inorganic Chemistry and Nanoscience,Richard Brutchey
+,,
+CHEM-590,Directed Research,
+CHEM-593x,Practicum in Teaching Chemistry,
+CHEM-594a,Master's Thesis,
+CHEM-594b,Master's Thesis,
+CHEM-594z,Master's Thesis,
+CHEM-596,Internship for Curricular Practical Training,
+CHEM-790,Research,
+CHEM-794a,Doctoral Dissertation,
+CHEM-794b,Doctoral Dissertation,
+CHEM-794c,Doctoral Dissertation,
+CHEM-794d,Doctoral Dissertation,
+CHEM-794z,Doctoral Dissertation,
+CLAS-101gp,State and Society in the Ancient World,Maya Maskarinec
+,,
+,,
+CLAS-151gp,The Legacy of Rome,Frederic Clark
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+CLAS-202g,Archaeology: Our Human Past,Tracie Mayfield
+,,Tracie Mayfield
+,,Tracie Mayfield
+,,Tracie Mayfield
+,,Tracie Mayfield
+CLAS-280gp,Classical Mythology in Art and Literature,Lucas Herchenroeder
+,,
+,,
+,,
+,,
+CLAS-307,Law and Society in Classical Greece,Susan Lape
+CLAS-321,Greek Art and Archaeology,John Pollini
+CLAS-324,Late Antique Art and Archaeology,Ann Marie Yasin
+CLAS-337gp,Ancient Drama,Afroditi Angelopoulou
+,,
+,,
+CLAS-348g,Athens in the Age of Democracy and Empire,Stefano Rebeggiani
+,,
+,,
+CLAS-410,Capstone Research Seminar,Lucas Herchenroeder
+CLAS-415,Object-Worlds: Histories and Theories of Things,Ann Marie Yasin
+CLAS-490x,Directed Research,Lucas Herchenroeder
+CLAS-520,Approaches to Antiquity,
+,Introduction to Byzantine Studies,Alexandre Roberts
+CLAS-560,Seminar in Republican Latin Literature,
+,Ovid's Fasti and Imperial Rome,Anthony Boyle
+CLAS-565,Seminar in Theoretical Approaches to Greek/Roman Culture and,
+,Critical Theory and Roman Comedy,Brandon Bourgeois
+CLAS-590,Directed Research,Stefano Rebeggiani
+CLAS-593x,Practicum in Teaching Liberal Arts: Classics,Stefano Rebeggiani
+CLAS-794a,Doctoral Dissertation,
+CLAS-794b,Doctoral Dissertation,
+CLAS-794c,Doctoral Dissertation,
+CLAS-794d,Doctoral Dissertation,
+CLAS-794z,Doctoral Dissertation,
+ENGL-105x,Creative Writing for Non-Majors,Robin Lewis
+,,
+,,
+,,
+,,
+,,
+,,
+ENGL-176g,"Los Angeles: the City, the Novel, the Movie",Thomas Gustafson
+,,
+,,
+,,
+,,
+,,
+,,
+ENGL-230g,Shakespeare and His Times,Ian Smith
+,,
+,,
+,,
+,,
+ENGL-240,Literary Arts,Melissa Daniels-Rauterkus
+,,David Roman
+,,Corrine Collins
+ENGL-261g,English Literature to 1800,Ian Smith
+,,Steven Minas
+,,Anthony Kemp
+ENGL-262g,English Literature since 1800,Margaret Russett
+,,Ashley Cohen
+ENGL-263g,American Literature,Jane Hu
+,,David Roman
+ENGL-270g,Studying Narrative,Aimee Bender
+,,Sara Sligar
+ENGL-280g,Introduction to Narrative Medicine,Erika Wright
+ENGL-298g,Introduction to the Genre of Fiction,Kerry Ingram
+,,
+,,
+,,
+,,
+,,
+,,
+ENGL-299g,Introduction to the Genre of Poetry,Catherine Theis
+,,
+,,
+,,
+,,
+,,
+,,
+ENGL-302,Writing Narrative,Marci Vogel
+ENGL-303,Introduction to Fiction Writing,Kerry Ingram
+,,Percival Everett
+,,
+ENGL-304,Introduction to Poetry Writing,Molly Bendall
+,,Catherine Theis
+ENGL-305,Introduction to Creative Nonfiction,David Ulin
+ENGL-310,Editing for Writers,Marci Vogel
+ENGL-325g,"Pre-Modern Wonders: Magic, Monsters and Marvels",Thea Tomaini
+ENGL-342g,Women in English and American Literature after 1800,Molly Bendall
+ENGL-344mg,Sexual/Textual Diversity,Sarah Kessler
+ENGL-361g,Contemporary Prose,Jonathan Leal
+ENGL-362g,Contemporary Poetry,Robin Lewis
+,,
+,,
+ENGL-363g,Contemporary Drama,Ben Levine
+ENGL-371g,Literary Genres and Film,Rick Berg
+ENGL-372,Literature and Related Arts,Enrique Martinez Celaya
+ENGL-405,Fiction Writing,Percival Everett
+,,
+ENGL-406,Poetry Writing,Susan Mccabe
+ENGL-407,Advanced Fiction Writing,Aimee Bender
+ENGL-422,English Literature of the 17th Century,Steven Minas
+ENGL-430,Shakespeare,Thea Tomaini
+ENGL-440,American Literature to 1865,Thomas Gustafson
+ENGL-446,Contemporary African American Literature,Melissa Daniels-Rauterkus
+ENGL-454,Aesthetic Philosophy and Theory,Mlondolozi Zondi
+ENGL-490x,Directed Research,Beatrice Sanford Russell
+ENGL-491,Senior Seminar in Literary Studies,Corrine Collins
+,,Anna Journey
+,,Heather James
+ENGL-492,Narrative Studies Capstone Seminar,Sara Sligar
+ENGL-501,History of Literary and Cultural Theory,Dana Johnson
+ENGL-502,Contemporary Literary and Cultural Theory,Jonathan Leal
+ENGL-535,Literatures and Cultures of the Romantic Period,Margaret Russett
+ENGL-540,19th Century British Literatures and Cultures,Kate Flint
+ENGL-563,Poetry and Prose into Drama,
+ENGL-601,Introduction to Literary Editing and Publishing,Brighde Mullins
+ENGL-603,The Editorial Experience: The Craft of Publication,Amy Meyerson
+ENGL-604,The Nonfiction Experience: A Literary-Editorial Focus,
+,A Literary-Editorial Focus,Ellen Wayland-Smith
+ENGL-606a,The Literary Landscape: Digital Toolkit,Sarah Mesle
+ENGL-609a,Internship in Editing and Publishing: Eloquence and Ethics,David Ulin
+ENGL-640,Individual Writers,Maggie Nelson
+ENGL-650,Multicultural Literary Studies,Jane Hu
+ENGL-660,Studies in Genre,Elda Maria Roman
+ENGL-678,Seminar in Film Theory and Medium Specificity,Jennifer Wild
+ENGL-693,Graduate Nonfiction Form and Theory,David Treuer
+ENGL-696,Graduate Poetry Writing Workshop,Anna Journey
+ENGL-697,Graduate Fiction Writing Workshop,Danzy Senna
+ENGL-698,Graduate Poetry Form and Theory,Susan Mccabe
+ENGL-703x,Academic Writing: Journal Articles and Dissertation Chapters,Ashley Cohen
+ENGL-790,Research,
+ENGL-794a,Doctoral Dissertation,
+ENGL-794b,Doctoral Dissertation,
+ENGL-794c,Doctoral Dissertation,
+ENGL-794d,Doctoral Dissertation,
+ENGL-794z,Doctoral Dissertation,
+FREN-012x,French 120 Language Practicum,
+FREN-015x,French 150 Language Practicum,Guilan Siassi
+FREN-120,French I,Julia Chamberlin
+,,Julia Chamberlin
+,,
+,,
+FREN-150,French II,Guilan Siassi
+,,Guilan Siassi
+,,Jennifer Misran
+,,Jennifer Misran
+,,Jennifer Misran
+,,Mina Soroosh
+FREN-175,Accelerated French for Speakers of Spanish and Other Romance Languages,Ruggero Sciuto
+FREN-220,French III,Nathalie Burle
+,,Nathalie Burle
+,,Rania Ben Amor
+,,Rania Ben Amor
+,,Rania Ben Amor
+,,Mina Soroosh
+,,Mina Soroosh
+,,
+FREN-235x,Intermediate Conversational French,Julia Chamberlin
+FREN-250,French IV,Robert Decker
+,,
+FREN-270gw,Black Europe,Edwin Hill
+,,
+,,
+,,
+,,
+FREN-272gp,"Medicine, Health and the Body in Literature and Culture",Julie Van Dam
+FREN-300,French Grammar and Composition,Atiyeh Showrai
+FREN-330,Critical Writing in French,Beatrice Mousli
+FREN-347g,"Race, Gender and Power in Francophone Literature",Robert Decker
+FREN-383,French Women Writers,Antonia Szabari
+FREN-393,Theories and Theorists,Natania Meeker
+FREN-404,Studies in an Author,Panivong Norindr
+FREN-448m,France and Islam,Olivia C Harrison
+FREN-490x,Directed Research,
+FREN-500,Pro-Seminar in French and Francophone Studies,Edwin Hill
+FREN-592,Practicum in Teaching French,Julia Chamberlin
+GERM-101,German I,Eve Lee
+,,Britta Bothe
+GERM-102,German II,Eve Lee
+GERM-201,"German III, Conversation and Composition",
+GERM-221,Conversational German IV,
+GERM-470,Advanced Composition and Stylistics,Britta Bothe
+HIST-101gp,State and Society in the Ancient World,Maya Maskarinec
+,,
+,,
+HIST-103g,The Emergence of Modern Europe,Lindsay O'Neill
+,,
+,,
+,,
+,,
+HIST-109g,The Latin American Experience,Joan Flores-Villalobos
+,,
+,,
+HIST-110g,History of Early Africa,Admire Mseba
+,,
+,,
+HIST-201,Approaches to History,Marjorie Becker
+,,Benjamin Uchiyama
+HIST-211gp,Race in America,
+,,
+,,
+,,
+,,
+HIST-250g,"Climate Change: Science, History and Solutions",Joshua Goldstein Victoria Petryshyn
+,,
+,,
+,,
+,,
+HIST-251gp,"History of Science, Technology and Medicine",Aro Velmet
+,,
+,,
+,,
+,,
+HIST-266gp,"Business and East Asian Culture, 1800-Present",Brett Sheehan
+,,
+,,
+,,
+,,
+,,
+,,
+HIST-306,The Early Middle Ages,Maya Maskarinec
+HIST-317mgp,Native Americans in American Public Life,Tok Thompson
+,,Kristiana Willsey
+,,Kristiana Willsey
+,,Kristiana Willsey
+,,Kristiana Willsey
+HIST-326,The Victorians,Lindsay O'Neill
+HIST-334,History of the Samurai,Joan Piggott
+HIST-337,Japan Since 1945,Benjamin Uchiyama
+HIST-354,Mexican Migration to the United States,Laura Isabel Serna
+HIST-361,20th Century U.S. History,Philip Ethington
+HIST-362,Authenticity in Twentieth Century Popular Music,Alice Echols
+HIST-374,History of Mexico,Marjorie Becker
+HIST-411,Early Modern European Cultural History,Anne Goldgar
+HIST-430,Migration and Displacement in the Indian Ocean World,Ketaki Pant
+HIST-439,"Tea Culture in Premodern East Asia: Politics, Art and Trade",Rebecca Corbett
+HIST-456,"Race, Slavery, and the Making of the Atlantic World",Christina Davidson
+HIST-460,"War, Race, and the Constitution",Lon Kurashige
+HIST-474,Death and Dying in the Americas,Laura Isabel Serna
+HIST-487,The United States since 1939,Philip Ethington
+HIST-490x,Directed Research,
+HIST-492,Honors Thesis,Alice Baumgartner
+HIST-493,"Law, History and Culture Honors Thesis Seminar",Christina Davidson
+HIST-500,Introduction to Graduate Historical Studies,Joan Flores-Villalobos
+HIST-515,Studies in Modern European History: Europe's 20th Century,Paul Lerner
+HIST-535,Studies in Japanese History,Joan Piggott
+HIST-542,"Readings in Science, Technology and Society",Aro Velmet
+HIST-554,Readings in Chicano/Latino History,George Sanchez
+HIST-567,Historical Scholarship on 19th Century America,Celeste Menchaca
+HIST-568,Historical Scholarship on 20th and 21st Century America,Lon Kurashige
+HIST-590,Directed Research,
+HIST-594a,Master's Thesis,
+HIST-594b,Master's Thesis,
+HIST-594z,Master's Thesis,
+HIST-595x,Practicum in Teaching the Liberal Arts,Jason Glenn
+HIST-790,Research,
+HIST-794a,Doctoral Dissertation,
+HIST-794b,Doctoral Dissertation,
+HIST-794c,Doctoral Dissertation,
+HIST-794d,Doctoral Dissertation,
+HIST-794z,Doctoral Dissertation,
+ITAL-012x,Italian 120 Language Practicum,
+ITAL-015x,Italian 150 Language Practicum,
+ITAL-020x,Course in Reading Italian,Alessio Filippi
+ITAL-120,Italian I,Francesca Ricciardelli
+,,Francesca Leardini
+,,Francesca Leardini
+,,Francesca Ricciardelli
+ITAL-150,Italian II,Antonio Idini
+,,Francesca Leardini
+,,Antonio Idini
+ITAL-175,Accelerated Italian for Speakers of Spanish and Other Romance Languages,James Fortney
+ITAL-220,Italian III,Alessio Filippi
+,,Alessio Filippi
+ITAL-222,Italian Professional Internship: Communication and Culture,Francesca Ricciardelli
+ITAL-240,Italian IV,Antonio Idini
+ITAL-270gw,Black Europe,Edwin Hill
+,,
+,,
+,,
+,,
+ITAL-300g,Inventing Modern Italy,Gian-Maria Annovi
+ITAL-374mg,Women Writers in Europe and America,Margaret Rosenthal
+,,
+,,
+ITAL-382g,Dante,Ruggero Sciuto
+ITAL-402,Studies in Modernity,Gian-Maria Annovi
+ITAL-490x,Directed Research,
+LING-110g,In a Word,
+,,
+,,
+LING-115gw,Language and Society,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+LING-120,American Sign Language I,
+LING-210g,Introduction to Linguistics,
+,,
+,,
+,,
+,,
+,,
+LING-275Lg,Language and Mind,Barry Schein Toby Mintz
+,,
+,,
+,,
+,,
+LING-285Lg,Human Language and Technology,
+,,
+,,
+,,
+,,
+,,
+,,
+LING-302,Introduction to Syntax,
+LING-303,Introduction to Semantics and Pragmatics,
+LING-307,Linguistic Theory and Communication Disorders,
+LING-385Lg,Human Language as Computation,
+,,
+,,
+LING-406,Psycholinguistics,
+LING-412,Language and Law,
+LING-433,Children's Learning and Cognitive Development,Sandy LaTourrette
+LING-467,"Language, Linguistics and Mind",
+LING-490x,Directed Research,
+LING-497,Honors Thesis,
+LING-505a,Seminar in Linguistics,
+LING-505b,Seminar in Linguistics,
+LING-505c,Seminar in Linguistics,
+LING-506,Practicum in Phonetics and Phonology,
+LING-507,Practicum in Syntax and Semantics,
+LING-508,Practicum in Psycholinguistics,
+LING-530,Generative Syntax,
+LING-531a,Phonology,
+LING-532,Current Issues in Syntactic Theory,
+LING-534,Semantics,
+LING-576,Psycholinguistics,
+LING-580,General Phonetics,
+LING-593x,Practicum in Teaching the Liberal Arts: Linguistics,
+LING-595,Directed Readings,
+LING-610,Seminar in Linguistic Theory,
+LING-631,Seminar in Phonological Theory,
+LING-635,Seminar in Syntax,
+LING-676,Seminar in Psycholinguistics,
+LING-790,Research,
+,,
+LING-794a,Doctoral Dissertation,
+LING-794b,Doctoral Dissertation,
+LING-794c,Doctoral Dissertation,
+LING-794d,Doctoral Dissertation,
+LING-794z,Doctoral Dissertation,
+PHIL-101g,"Free People, Free Thought and Free Markets",Scott Soames Thomas Chaney
+PHIL-103g,"Philosophy, Politics and Economics in Europe, from Renaissan",Jacob Soll
+,,
+,,
+,,
+,,
+,,
+,,
+PHIL-122a,Reasoning and Argument,
+PHIL-122b,Reasoning and Argument,
+PHIL-170g,"Introduction to Philosophy, Politics and Economics and Law",Jake Monaghan
+PHIL-174gw,"Freedom, Equality, and Social Justice",Jonathan Quong
+,,
+,,
+,,
+,,
+,,
+,,
+PHIL-176gw,Introduction to Feminist Philosophy,Emily Tilton
+,,
+,,
+,,
+,,
+,,
+,,
+PHIL-178gw,Moral Dilemmas in the Legal Domain,John Hawthorne
+,,
+,,
+,,
+,,
+PHIL-220g,Introduction to Logic,Gabriel Uzquiano
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+PHIL-255gp,"Existentialism in Philosophy, Literature and Film",Edwin McCann
+,,
+,,
+,,
+,,
+PHIL-258g,Probability and Rational Choice,Jeff Russell
+,,
+,,
+,,
+,,
+PHIL-270g,Conceptual Foundations of Conflict,Mark Schroeder
+,,
+,,
+,,
+,,
+PHIL-284gp,Ideas on Trial,Robin Jeshion
+,,
+,,
+,,
+,,
+PHIL-336,Philosophy of Mind and Language,Robin Jeshion
+PHIL-337,Political Philosophy,Collis Tahzib
+PHIL-350,Intermediate Logic,Zlatan Damnjanovic
+PHIL-360,Epistemology and Metaphysics,James Van Cleve
+PHIL-363,Philosophy of Perception,Christina Dietz
+PHIL-430,Philosophy of Law,Scott Soames
+,,
+,,
+,,
+,,
+PHIL-431,"Law, Society, and Politics",Jonathan Quong
+,,
+,,
+,,
+,,
+PHIL-437,Social and Political Philosophy,Sharon Lloyd
+PHIL-442,History of Ethics to 1900,Jacob Soll
+PHIL-450,The Limits of Logic,
+PHIL-452,Modal Logic,Gabriel Uzquiano
+PHIL-462,Philosophy of Mind,Sam Clarke
+PHIL-463,Theories of Action,Kadri Vihvelin
+PHIL-467,"Language, Linguistics and Mind",
+PHIL-473,Wittgenstein,Edwin McCann
+PHIL-475,"Topics in Philosophy, Politics and Economics",
+PHIL-480,Philosophy of Mathematics,Zlatan Damnjanovic
+PHIL-490x,Directed Research,
+,,
+,,
+,,
+PHIL-494,Senior Thesis,
+,,
+,,
+PHIL-500,Introduction to Contemporary Philosophical Literature,John Hawthorne
+PHIL-501,Seminar in Recent Philosophy,Robin Jeshion
+PHIL-515,Studies in Ancient and Medieval Philosophy,Merrick Anderson
+PHIL-537,Seminar in Social and Political Philosophy,Jake Monaghan
+PHIL-565,Philosophy of Language,Barry Schein
+PHIL-590,Directed Research,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+PHIL-593x,Teaching Philosophy,Mark Schroeder
+PHIL-594a,Master's Thesis,
+PHIL-594b,Master's Thesis,
+PHIL-594z,Master's Thesis,
+PHIL-700x,Dissertation Seminar,
+PHIL-790,Research,
+,,
+,,
+,,
+,,
+,,
+,,
+PHIL-794a,Doctoral Dissertation,
+PHIL-794b,Doctoral Dissertation,
+PHIL-794c,Doctoral Dissertation,
+PHIL-794d,Doctoral Dissertation,
+PHIL-794z,Doctoral Dissertation,
+PHYS-100Lxg,The Physical World,Vahe Peroomian
+,,
+,,
+,,
+,,
+,,
+,,
+PHYS-135aLg,Physics for the Life Sciences,Hamid Chabok
+,,Aaron Wirthwein
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+PHYS-135bL,Physics for the Life Sciences,Lara Martini
+,,James Boedicker
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+PHYS-141L,Special Laboratory I,
+PHYS-142L,Special Laboratory II,
+PHYS-151Lg,Fundamentals of Physics I: Mechanics and Thermodynamics,Christopher Gould
+,,Bo Shrewsbury
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+PHYS-152L,Fundamentals of Physics II: Electricity and Magnetism,Lara Martini
+,,Vahe Peroomian
+,,Aaron Wirthwein
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+PHYS-153L,Fundamentals of Physics III: Optics and Modern Physics,Loic Anderegg
+,,
+,,
+,,
+,,
+,,
+,,
+PHYS-162L,Advanced Principles of Physics II,Lara Martini
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+PHYS-190,Physics Discovery Series,Kris Pardo
+,,Kris Pardo
+,,Kris Pardo
+PHYS-200Lxg,The Physics and Technology of Energy,Peter Chung
+,,
+,,
+PHYS-304,Mechanics,Aaron Wirthwein
+PHYS-408a,Electricity and Magnetism,Vitaly Kresin
+PHYS-438b,Introduction to Quantum Mechanics and its Applications,Eli Levenson-Falk
+PHYS-444,Physical Biology: From Molecules to Cells,Peter Foster
+PHYS-490x,Directed Research,
+PHYS-492L,Senior Lab,Kelly Luo
+,,Kelly Luo
+PHYS-495,Senior Project,
+PHYS-500,Graduate Colloquium,
+PHYS-504,Advanced Mechanics,Krzysztof Pilch
+PHYS-510,Methods of Theoretical Physics,Paolo Zanardi
+PHYS-514,Methods of Experimental Physics,
+PHYS-518,Thermodynamics and Statistical Mechanics,Christoph Haselwandter
+PHYS-558b,Quantum Mechanics,Itzhak Bars
+PHYS-559,Quantum Devices,Eli Levenson-Falk
+PHYS-590,Directed Research,
+PHYS-593,Practicum in Teaching Physics and Astronomy,Bo Shrewsbury
+PHYS-594a,Master's Thesis,
+PHYS-594b,Master's Thesis,
+PHYS-594z,Master's Thesis,
+PHYS-596,Internship for Curricular Practical Training,
+PHYS-750o,Off Campus Studies,
+PHYS-790,Research,
+PHYS-794a,Doctoral Dissertation,
+PHYS-794b,Doctoral Dissertation,
+PHYS-794c,Doctoral Dissertation,
+PHYS-794d,Doctoral Dissertation,
+PHYS-794z,Doctoral Dissertation,
+POIR-590,Directed Research,
+POIR-593,Practicum in Teaching Politics and International Relations,Carol Wise
+POIR-596,Internship for Curricular Practical Training,
+,,
+POIR-599,Special Topics,
+,Political Economy and Public Policy,Jefferey Sellers
+POIR-610,Research Design,Sherry Zaks
+POIR-611,Introduction to Regression Analysis,Dan Schrage
+POIR-613,Topics in Quantitative Analysis,
+POIR-616,Advanced Quantitative Methods,Varun Karekurve-Ramachandra
+POIR-618,Problems of American Politics,
+,Seminar in Problems of American Politics,Christian Phillips
+POIR-660,Introduction to International Relations Theory,Jacques Hymans
+POIR-790,Research,
+POIR-794a,Doctoral Dissertation,
+POIR-794b,Doctoral Dissertation,
+POIR-794c,Doctoral Dissertation,
+POIR-794d,Doctoral Dissertation,
+POIR-794z,Doctoral Dissertation,
+SOCI-155mg,Immigrant America,Jody Agius Vallejo
+,,
+,,
+,,
+,,
+SOCI-169mg,Changing Family Forms,Jennifer Hook
+,,
+,,
+,,
+,,
+SOCI-200mg,Introduction to Sociology,Juliana Mc Gene
+,,
+,,
+,,
+,,
+,,
+,,
+SOCI-210g,"Science, Technology, and Social Conflict",
+,,
+,,
+SOCI-242g,"Sociology, Demography and Health",Juliana Mc Gene
+,,
+,,
+,,
+,,
+,,
+,,
+SOCI-270g,Sociological Theory,Alexandra Brewer
+,,Robert Werth
+SOCI-305m,Sociology of Childhood,Karen Sternheimer
+SOCI-313L,Sociological Research Methods,Karen Sternheimer
+,,Dan Lainer-Vos
+SOCI-314Lg,Analyzing Social Statistics,Tim Biblarz
+,,Tim Biblarz
+SOCI-325,Applied Social Research Methods,Daniela Urbina Julio
+SOCI-335,Society and Population,Emily Smith-Greenaway
+SOCI-336,"Health, Gender and Ethnicity",Atia Sattar
+SOCI-353,"Crime, Punishment and Society",Robert Werth
+SOCI-360m,"Social Inequality: Class, Status and Power",Karen Sternheimer
+SOCI-369,The Family in a Changing Society,Juliana Mc Gene
+SOCI-440,Environmental Sociology,Dan Lainer-Vos
+SOCI-460,Key Issues in Contemporary International Migration,
+SOCI-475,Medical Sociology,Juliana Mc Gene
+SOCI-490x,Directed Research,
+,,
+SOCI-500,Sociology Professional Seminar,Jody Agius Vallejo
+SOCI-510,Sociological Theory I,Hajar Yazdiha
+SOCI-521L,Quantitative Methods and Statistics I,Dan Schrage
+SOCI-590,Directed Research,
+,,
+SOCI-593,Practicum in Teaching the Liberal Arts,Karen Sternheimer
+SOCI-620,Advanced Methods--Qualitative Research,Alexandra Brewer
+SOCI-647,"Political Sociology: Politics, Symbols and Everyday Life",Nina Eliasoph
+SOCI-654,Social Movements,Hajar Yazdiha
+SOCI-790,Research,
+SOCI-794a,Doctoral Dissertation,
+SOCI-794b,Doctoral Dissertation,
+SOCI-794c,Doctoral Dissertation,
+SOCI-794d,Doctoral Dissertation,
+SOCI-794z,Doctoral Dissertation,
+SPAN-120,Spanish I,Martin Ocon-Gamarra
+,,Jamie Fudacz
+,,Jaclyn Cohen-Steinberg
+,,Jamie Fudacz
+,,Goretti Prieto Botana
+,,
+SPAN-150,Spanish II,
+,,Jaclyn Cohen-Steinberg
+,,Leah Kemp
+,,Ivette Gomez
+,,Maura Crowley
+,,Maura Crowley
+,,Leah Kemp
+,,Gayle Fiedler-Vierma
+,,Lorena Gallego
+,,Liana Stepanyan
+,,Marie Enright
+,,Jaclyn Cohen-Steinberg
+,,Karen Perez
+,,Jamie Fudacz
+,,Maria Mercedes Fages Agudo
+,,
+,,Gayle Fiedler-Vierma
+,,Martin Ocon-Gamarra
+,,Martin Ocon-Gamarra
+,,
+,,Maria Mercedes Fages Agudo
+,,David Zarazua
+,,Karen Perez
+SPAN-220,Spanish III,Consuelo Siguenza-Ortiz
+,,Lori Mesrobian
+,,Liana Stepanyan
+,,
+,,Ivette Gomez
+,,Anahit Hakoupian
+,,Lorena Gallego
+,,Ivette Gomez
+,,Anahit Hakoupian
+,,Marie Enright
+,,Maura Crowley
+,,Consuelo Siguenza-Ortiz
+,,Liana Stepanyan
+,,Marie Enright
+,,David Zarazua
+,,David Zarazua
+,,Sarah Portnoy
+,,Andrea Parra
+,,
+,,Leah Kemp
+,,
+,,Lorena Gallego
+,,Anahit Hakoupian
+SPAN-240,Spanish IV,Lori Mesrobian
+SPAN-260,Advanced Spanish: Arts and Sciences,Lori Mesrobian
+,,Andrea Parra
+,,Maria Mercedes Fages Agudo
+SPAN-280x,Conversational Spanish,Marianna Chodorowska-Pilch
+,,Marianna Chodorowska-Pilch
+SPAN-295g,Gender and Sexuality in Latin American and Spanish Cinema,Julian Gutierrez-Albilla
+SPAN-301,Introduction to Literature and Film,Natalia Perez
+,,
+SPAN-310,Structure of Spanish,Marianna Chodorowska-Pilch
+,,Marianna Chodorowska-Pilch
+SPAN-315,Advanced Grammar and Translation,Gayle Fiedler-Vierma
+SPAN-316x,Spanish for the Professions,
+,Medicine and Healthcare,Consuelo Siguenza-Ortiz
+,Journalism and Social Media,Karen Perez
+SPAN-372,Modern and Contemporary Latin American Fiction,Erin Graff Zivin
+SPAN-375,Latin American Cultural and Literary Theory,Natalie Belisle
+SPAN-385,The Culture of Food in Hispanic Los Angeles,Sarah Portnoy
+SPAN-460,Don Quijote: Text and Film,Sherry Velasco
+SPAN-483,Gender and Sexuality,Natalia Perez
+SPAN-501,Cultural Narratives of Spain and Latin America,
+SPAN-592,Practicum in Teaching Spanish,Goretti Prieto Botana
+ART-105,Art and Design Studio I,
+,,Paul Donald Brian O'Connell
+ART-106,Art and Design Studio II,Paul Donald China Adams
+ART-110,Drawing for Art and Design,
+,,Karen Liebowitz
+ART-120,Painting I,Karen Liebowitz
+,,
+ART-130,Ceramics I,Thomas Mueller
+,,Thomas Mueller
+ART-131,Wheel Throwing,
+,,
+ART-140,Sculpture I,Ruben Ochoa
+ART-141xg,Creating and Understanding Visuals,Paul Donald
+ART-149,Black and White Film and Darkroom Photography,Julia Paull
+,,Julia Paull
+ART-150,Introduction to Photography: Process and Concept,Caroline Clerc
+,,Caroline Clerc
+ART-205,Foundation Studio Intensive,Sherin Guirguis
+ART-207a,Two-Dimensional Art Workshop,
+ART-207b,Two-Dimensional Art Workshop,
+ART-260,Introduction to Video: Projection and Virtual Worlds in Art,Patty Chang
+ART-280,Studio Critique I,Nao Bustamante
+ART-310,Drawing II,Karen Liebowitz
+ART-312,Comics Project,
+,,Keith Mayerson
+ART-314,Illustration for Art and Design,
+ART-320,Painting II,Edgar Arceneaux
+ART-330,Ceramics II,
+ART-350,"Intermediate Photography: Studio, Field, Independent Project",Caroline Clerc
+ART-362,Ideas in Intermedia,
+,Artificial Intelligence,Jean Robison
+ART-380,Studio Critique II,
+ART-410,Topics in Advanced Drawing,
+ART-414,Advanced Illustration for Art and Design,
+ART-415,Studies in Drawing and Painting,
+,Figure Drawing,
+ART-416,Ideation of Visual Worlds,
+ART-418,Independent Studies in Studio Arts,
+,2D Projects,Edgar Arceneaux
+,3D Projects,Thomas Mueller
+,4D Projects,Julia Paull
+ART-419,Professional Internship in the Arts,Antonio Bartolome
+ART-430,Topics in Advanced Ceramics,Thomas Mueller
+ART-441,Installation Art,Ruben Ochoa
+ART-443,Woodworking,
+ART-444,Modeling and Mold Making,
+ART-445,Metal,
+ART-451,Large Format Photography,
+ART-460,Post-Material Studio,Patty Chang
+ART-461,Motion Graphics for Art and Video,Jean Robison
+ART-485,Studio Capstone,Ruben Ochoa
+ART-515,Visiting Artist and Scholar Seminar,Andrew Campbell
+ART-520,Individual Studies,Jennifer West Sherin Guirguis Keith Mayerson
+,,Jennifer West Sherin Guirguis Keith Mayerson
+ART-535,Group Critique,Edgar Arceneaux
+ART-545,Professional Practice,Edgar Arceneaux
+ART-590,Directed Research,
+ART-594a,Master's Thesis,Jennifer West
+ART-594z,Master's Thesis,Jennifer West
+BAEP-423,Management of Small Businesses,Glenn Fox
+,,Glenn Fox
+BAEP-450,Fundamentals of Entrepreneurship,
+,,
+,,
+,,
+BAEP-452,Feasibility Analysis,
+BAEP-453,Venture Management,
+BAEP-455,Founder's Dilemmas,
+BAEP-460,Seminar in Entrepreneurship,
+,Philanthropy and Social Impact,
+BAEP-465,Digital Playbook for Entrepreneurs: Creating a Tech Startup,
+,,
+BAEP-472,The Science of Peak Performance,
+BAEP-473,Sales Mindset for Entrepreneurs,
+BAEP-475,Entertainment Entrepreneurship,
+BAEP-476,Green Entrepreneurship,
+BAEP-477,"Entrepreneurial Imagination: Past, Present and Future",
+BAEP-480,Entrepreneurial Family Business,
+BAEP-491,Introduction to Social Entrepreneurship,
+BAEP-495,Practicum in Business Issues (Internship),
+BAEP-497,Field Project in Entrepreneurship,
+BAEP-552,Venture Feasibility,
+BAEP-553,Cases in New Venture Management,
+BAEP-555,Founder's Dilemmas: Anticipate and Avoid Startup Pitfalls,
+BAEP-556,Technology Feasibility,
+BAEP-558,The Entrepreneurial Advisor: Problem Solving for Early-Stage Companies,Abby Fifer Mandell
+,,Abby Fifer Mandell
+BAEP-559,Investing in New Ventures,
+BAEP-561,Entrepreneurship in Innovative Industries: Life Sciences,
+BAEP-564,Investing in Impact Ventures,
+BAEP-565,Venture Lab,
+BAEP-566,Cases in Feasibility Analysis for Social Ventures,
+BAEP-571,Social Innovation Design,
+BAEP-572,Performance Mindset for Business,
+BAEP-575,Entrepreneurship in the Media and Entertainment Industry,
+BAEP-577,The Entrepreneurial CEO: The Real World of Leading Startups,
+BAEP-585,Seminar: The Entrepreneurial Mindset,
+,,
+BAEP-590,Directed Research,
+BAEP-592,Field Research in Business Entrepreneurship,
+,,
+BAEP-593,Independent Research in Business Entrepreneurship,
+BAEP-595,Internship in Business Entrepreneurship,
+BAEP-596,Research Practicum in Business Entrepreneurship,
+BAEP-597,Consulting Project in Business Entrepreneurship,
+BME-101,Introduction to Biomedical Engineering,Jesse Yen
+,,
+,,
+BME-202,Control and Communication in the Nervous System,Bartlett Mel
+,,Bartlett Mel
+,,
+,,
+,,
+,,
+BME-302L,Medical Electronics,Jean-Michel Maarek
+,,
+,,
+BME-403L,Physiological Systems,Vasileios Christopoulos Mack Yang
+,,
+,,
+BME-405L,Senior Projects: Measurements and Instrumentation,John Mai
+,,
+BME-406,Introduction to Bioengineering in Medicine,Keyue Shen
+BME-408,Rehabilitation Engineering and Assistive Technologies,Brittany Kay
+BME-413,Bioengineering Signals and Systems,Shaoying Lu
+,,Brent Liu
+,,
+,,
+BME-423,Statistical and Data Science Methods in Biomedical Engineeri,David D'Argenio
+,,Brittany Kay
+,,
+,,
+BME-430,Principles and Applications of Systems Biology,Stacey Finley
+,,
+BME-451L,Fundamentals of Biomedical Microdevices,Alexander Baldwin
+,,
+BME-490x,Directed Research,
+BME-499,Special Topics 10,
+,Senior Design Project,John Mai
+,Senior Design Project,John Mai
+,Senior Design Project,John Mai
+BME-501,Advanced Topics in Biomedical Systems,Stan Yamashiro
+,,Stan Yamashiro
+BME-502,Advanced Studies of the Nervous System,Jennifer Treweek
+,,Jennifer Treweek
+BME-504,Neuromuscular and Bio-Robotic Systems,Francisco Valero-Cuevas
+,,
+BME-505aL,Laboratory Projects in Biomedical Engineering,Brent Liu
+BME-511,Physiological Control Systems,Michael Khoo
+,,
+,,Michael Khoo
+,,
+BME-513,Signal and Systems Analysis,Vasilis Marmarelis
+BME-514,Physiological Signals and Data Analytics,Michael Khoo
+BME-521,Thermal and Biological Transport Phenomena I,Satwindar Sadhal
+,,Satwindar Sadhal
+BME-527,Integration of Medical Imaging Systems,Brent Liu
+,,Brent Liu
+BME-533,Seminar in Bioengineering,Megan McCain
+,,Megan McCain
+BME-535L,Ultrasonic Imaging,Qifa Zhou
+,,
+BME-559,Nanomedicine and Drug Delivery,Eun Ji Chung
+BME-590,Directed Research,Megan McCain
+BME-594a,Master's Thesis,Megan McCain
+BME-594b,Master's Thesis,Megan McCain
+BME-594z,Master's Thesis,Megan McCain
+BME-620L,Applied Electrophysiology,Jerry Loeb
+,,
+BME-650,Biomedical Measurement and Instrumentation,Jerry Loeb Maral Mousavi
+BME-790,Research,Megan McCain
+,,Megan McCain
+BME-794a,Doctoral Dissertation,Megan McCain
+BME-794b,Doctoral Dissertation,Megan McCain
+BME-794c,Doctoral Dissertation,Megan McCain
+BME-794d,Doctoral Dissertation,Megan McCain
+BME-794z,Doctoral Dissertation,Megan McCain
+CE-106,Introduction to Civil Engineering,Amy Rechenmacher
+CE-110,Introduction to Environmental Engineering,Amy Childress Adam Smith Kandis Leslie Abdul-Aziz Felipe De Barros Daniel McCurry Kelly Sanders Adam Simpson Jiachen Zhang
+CE-119,Statistical Data Analysis in Engineering,Audrey Olivier
+CE-215,Statics and Dynamics,Mihailo Trifunac
+,,
+CE-334L,Mechanical Behavior of Materials,Bora Gencturk
+,,
+,,
+,,
+,,
+CE-358L,Elementary Theory of Structures,Mihailo Trifunac
+,,
+,,
+CE-408,Risk and Decision Analysis in Civil Engineering,Roger Ghanem
+CE-410L,Introduction to Environmental Engineering Microbiology,Adam Smith
+,,
+CE-430,Sustainable Transportation,Eric Shen
+CE-450,Coastal Engineering and Design,Patrick Lynett
+CE-453,Water Quality Science and Engineering,Adam Simpson
+,,
+CE-456,Structural Design I,Maria Mohammed
+CE-459,Introduction to Structural Dynamics,Mihailo Trifunac
+CE-460,Construction Engineering,Henry Koffman
+CE-469,Sustainable Design and Construction,Henry Koffman
+CE-470,Building Information Modeling: Project Visualization and Sim,Burcin Becerik
+CE-471,Principles of Transportation Engineering,Ruolin Li
+CE-482,Subsurface Foundation Design,Amy Rechenmacher
+CE-485,Water and Wastewater Treatment Design,Wonho Song
+CE-490x,Directed Research,
+CE-501,"Architecture, Engineering and Construction Practices",Sandra Ichiho
+CE-502,"Construction Accounting, Finance and Strategy",Ed Reynolds
+,,Ed Reynolds
+CE-507,Mechanics of Solids I,Thomas Petersen
+,,Thomas Petersen
+CE-521,Transportation Systems Analysis,Ketan Savla
+CE-523,Physiochemical Processes in Environmental Engineering,Amy Childress
+CE-529,Finite Element Analysis,Abdel-Salam Niazy
+,,Abdel-Salam Niazy
+,,
+,,
+CE-531,Quantifying Uncertainty in Civil &amp; Environmental Engineering,Audrey Olivier
+,,
+CE-535,Earthquake Engineering: Strong Motion Studies,
+CE-537,Advanced Reinforced Concrete,Bora Gencturk
+CE-538,Prestressed Concrete,Navid Nastar
+CE-539,Advanced Steel Structures,
+,,
+CE-553,Biological Processes in Environmental Engineering,Adam Smith
+CE-564,Construction Planning and Preconstruction,Jonathan Holzer
+,,Jonathan Holzer
+CE-573,Advanced Technologies in AEC Practices,David Gerber
+,,David Gerber
+CE-574,Construction Means and Methods,Daniel Mcauliffe
+,,Daniel Mcauliffe
+CE-577,Data Analytics for Surface Transportation,Roxana Javid
+CE-579,Legal Issues in Transportation Planning,Patrick Harder
+CE-584,Intelligent Transportation Operations,Roxana Javid
+CE-590,Directed Research,
+CE-634,Institutional and Policy Issues in Transportation,
+CE-790,Research,
+CE-794a,Doctoral Dissertation,
+CE-794c,Doctoral Dissertation,
+CE-794d,Doctoral Dissertation,
+CE-794z,Doctoral Dissertation,
+CHEM-050x,General Chemistry Tutorial,
+CHEM-102,The Molecular World,Jessica Parr
+,,
+CHEM-103Lxg,General Chemistry for the Environment and Life,Thomas Bertolini
+,,
+,,
+,,
+,,
+,,
+,,
+CHEM-105aLg,General Chemistry,Thomas Bertolini
+,,
+,,Stuart Moon
+,,
+,,Jessica Parr
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+CHEM-105bL,General Chemistry,Rebecca Broyer
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+CHEM-107Lg,General Chemistry for Chemistry Majors,Alexander Benderskii
+,,
+,,
+,,
+,,
+,,
+CHEM-115aLg,Advanced General Chemistry,Hanna Reisler Jessica Parr
+,,
+,,
+,,
+,,
+,,
+CHEM-204Lg,"Pandemics Shaping Our World: Past, Present and Future",Charles Mc Kenna
+,,
+,,
+,,
+CHEM-205Lxg,"Chemical Forensics: The Science, and Its Impact",Thomas Bertolini Rebecca Broyer
+,,
+,,
+,,
+,,
+,,
+,,
+CHEM-250x,Organic Chemistry Tutorial A,Rebecca Broyer
+CHEM-290aL,Special Laboratory,
+CHEM-290bL,Special Laboratory,
+CHEM-290cL,Special Laboratory,
+CHEM-290dL,Special Laboratory,
+CHEM-292,Supervised Research,
+CHEM-294,Undergraduate Research Seminar,Susumu Takahashi
+CHEM-300L,Analytical Chemistry,Michael Inkpen
+,,
+,,
+,,
+,,
+CHEM-322aL,Organic Chemistry,Stuart Moon
+,,Kyung Jung
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+CHEM-322bL,Organic Chemistry,Rebecca Broyer
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+CHEM-325aL,Organic Chemistry,Travis Williams
+,,
+,,
+,,
+,,
+,,
+,,
+CHEM-330L,Biochemistry,Christa Bancroft Grayson Jaggers
+,,
+,,
+,,
+CHEM-350,Molecular Principles of Biochemistry,Chiho Mak
+,,
+,,
+,,
+,,
+CHEM-426,Advanced Organic Chemistry,Chao Zhang
+CHEM-430,Physical Chemistry: Thermodynamics and Kinetics,Jahan Dawlaty
+,,
+,,
+,,
+CHEM-467,Advanced Chemical Biology Laboratory,Peter Qin
+CHEM-490x,Directed Research,
+CHEM-494x,Advanced Research Experience,
+,,
+CHEM-515,Structure and Bonding in Inorganic and Organometallic Chemis,Richard Brutchey
+,,
+CHEM-516,"Synthesis, Reactivity, and Mechanism in Inorganic and Organo",Megan Fieser
+CHEM-521,Basic Principles of Physical Methods in Biochemistry,Peter Qin
+CHEM-526,Structure and Mechanism in Organic Chemistry,Elias Picazo
+,,
+CHEM-538,Mathematical Techniques of Physical Chemistry,Andrey Vilesov
+CHEM-544,Introduction to Quantum Chemistry,Susumu Takahashi
+CHEM-545,Theory and Practice of Molecular Electronic Structure,Anna Krylov
+CHEM-550,Special Topics in Chemical Physics,Curt Wittig
+CHEM-570,Seminar in Chemical Biology,Matthew Pratt
+CHEM-580,Current Topics in Inorganic Chemistry and Nanoscience,Richard Brutchey
+,,
+CHEM-590,Directed Research,
+CHEM-593x,Practicum in Teaching Chemistry,
+CHEM-594a,Master's Thesis,
+CHEM-594b,Master's Thesis,
+CHEM-594z,Master's Thesis,
+CHEM-596,Internship for Curricular Practical Training,
+CHEM-790,Research,
+CHEM-794a,Doctoral Dissertation,
+CHEM-794b,Doctoral Dissertation,
+CHEM-794c,Doctoral Dissertation,
+CHEM-794d,Doctoral Dissertation,
+CHEM-794z,Doctoral Dissertation,
+CMGT-502,Strategic Organizational Communication,Jessica Neff
+CMGT-505,Communication in Work Settings,Brad Shipley
+CMGT-508,Communicating Strategy and Change,Brad Shipley
+CMGT-510,Communication and Persuasion,Sheila Murphy
+CMGT-514,Analytical Tools for Communication Decisions,Jessica Neff
+,,Mathew Curtis
+CMGT-517,Communication in the Luxury Fashion Industry,Alexis Brunswick
+,,Alexis Brunswick
+CMGT-519,Analyzing Communication Strategies: Self-Care Segments,Jennifer Houghton
+CMGT-529,Creator Culture and Industries,David Craig Andrew Leonard
+CMGT-532,Partnerships in the U.S. Media Industry,Steven Dustin Bomar Monica Koyama
+CMGT-537,"The Industry, Science and Culture of Video Games",Dmitri Williams
+CMGT-540,Uses of Communication Research,Mathew Curtis Courtney Pade
+CMGT-541,Integrated Communication Strategies,Marina Kosten
+CMGT-544,Creating Differentiation for Organizations: Meaning and Grow,Simon Uwins
+CMGT-546,Sports Media and Society,Eric Markgraf
+CMGT-550,Hollywood 3.0-Entertainment Industry in the Convergence Age,Andy Merkin
+CMGT-551,Communicating Entertainment Media Identities,Allan Gungormez Monica Koyama
+CMGT-554,Copywriting and Creativity,Eric Markgraf
+CMGT-555,Online Marketing Communication Development and Analysis,Mayanna Framroze
+,,Rich Guest
+CMGT-556,Global Marketing Communication,Ted Skidmore
+CMGT-558,International Entertainment Marketplaces,Paolo Sigismondi
+,,Ted Skidmore
+CMGT-564,Methodological Fundamentals of Big Data in Communication,Ben Lee
+,,Ben Lee
+CMGT-568,Influencer Strategies,Freddy Nager
+,,Freddy Nager
+CMGT-576,Communication Strategies for Conflict Management,Colleen Keough
+CMGT-587,Audience Analysis,Leah Gunn
+,,Austin Roy
+CMGT-588,Global Storytelling: The Power of Narrative,Daniela Kon Lieberberg
+CMGT-589,"Storytelling, Culture and Experiential Communication",Mayanna Framroze
+CMGT-590,Directed Research,
+,,
+,,
+,,
+,,
+,,
+CMGT-591,Communication Internship,
+,,
+,,
+,,
+,,
+,,
+,,
+CMGT-597a,Communication Research Practicum,Ben Lee
+,,Brad Shipley
+,,Ben Lee
+,,Brad Shipley
+CMGT-597b,Communication Research Practicum,Ben Lee
+,,Brad Shipley
+CMGT-599,Special Topics,
+,Strategic Marketing Communication for Hospitality and Tourism,
+,Building and Growing Communities for Live Games,Steven Fowler II
+CTIN-101,Fundamentals of Procedural Media,
+CTIN-180,Video Game Production,Kyle Ackerman
+CTIN-190,Introduction to Interactive Entertainment,
+CTIN-191,Survey of Themed Entertainment,
+CTIN-289,Game Development Fundamentals,
+CTIN-290,Digital Media Workshop,
+CTIN-291,Crew for Advanced Game Project,
+CTIN-389,Game Development Principles,
+,,
+CTIN-395,Miniature Golf Design,
+CTIN-401L,Interface Design for Games,
+CTIN-409,Producing Interactive Projects,
+CTIN-411,Tabletop Game Mechanics Seminar,
+CTIN-412,Interactive Systems Design,
+CTIN-444,Audio Expression,
+CTIN-452L,Themed Entertainment Design,
+CTIN-457,Themed Entertainment Business Operations,
+CTIN-458,Business and Management of Games,
+CTIN-463,Anatomy of a Game,
+CTIN-468,Advanced Games Business,
+CTIN-487,Streaming Explorations: Games and Entertainment for Communit,
+CTIN-488,Game Design Workshop,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+CTIN-489L,Intermediate Game Design and Production,
+,,
+CTIN-490x,Directed Research,
+CTIN-491L,Advanced Game Project I,
+,,
+,,
+CTIN-492L,Experimental Game Topics,
+CTIN-495,Advanced Themed Entertainment Design,
+CTIN-529a,Graduate Advanced Game Project,
+CTIN-532L,Interactive Design and Production I,
+,,
+CTIN-534L,Experiments in Interactivity I,
+,,
+CTIN-541,Design for Interactive Media,
+,,
+CTIN-575,Health and Interactive Entertainment Research Lab,
+CTIN-583,Game Development for Designers,
+CTIN-590,Directed Research,
+CTIN-591,Crew for Graduate Advanced Game Project,
+CTIN-593,Integrative Project: Media-based Interventions in Healthcare,
+CTIN-594a,Master's Thesis,
+DSCI-250,Introduction to Data Science,
+DSCI-351,Foundations of Data Management,
+DSCI-352,Applied Machine Learning and Data Mining,
+DSCI-429,Security and Privacy,
+DSCI-510,Principles of Programming for Data Science,
+,,
+,,
+,,
+,,
+,,
+DSCI-517,Research Methods and Analysis for User Studies,
+,,
+DSCI-519,Foundations and Policy for Information Security,
+,,
+DSCI-523,Computer Systems Assurance,
+,,
+DSCI-534,Biomedical Data Privacy Issues and Solutions,
+,,
+DSCI-549,Introduction to Computational Thinking and Data Science,
+,,
+DSCI-550,Data Science at Scale,
+,,
+DSCI-551,Foundations of Data Management,
+,,
+,,
+DSCI-552,Machine Learning for Data Science,
+,,
+,,
+DSCI-553,Foundations and Applications of Data Mining,
+,,
+DSCI-554,Data Visualization,
+DSCI-556,User Experience Design and Strategy,
+,,
+DSCI-560,Data Science Professional Practicum,
+DSCI-561,Predictive Analytics,
+,,
+,,Tao Ma
+,,
+,,
+DSCI-562,Integration of Medical Imaging Systems,Brent Liu
+,,Brent Liu
+DSCI-565,Introduction to Deep Learning for Data Science,
+DSCI-590,Directed Research,
+EALC-101x,Conversational Chinese and Intercultural Communication,Xiang Jian
+,,Xiang Jian
+EALC-102,"Language, Art and Culture: Calligraphy",Yu-Chi Kuo
+,,Hsiao-Yun Liao
+,,Yi-Hsien Liu
+,,Yu-Chi Kuo
+EALC-104,Chinese I,Yu-Chi Kuo
+,,Yu-Chi Kuo
+EALC-106,Chinese II,Xiang Jian
+,,Tin-Yu Tseng
+,,Tin-Yu Tseng
+EALC-110gp,East Asian Humanities: The Great Tradition,Wanmeng Li
+,,
+,,
+EALC-115,Korean I,Woojoo Kim
+,,Woojoo Kim
+,,
+EALC-117,Korean II,Seojin Park
+,,Seojin Park
+,,Seojin Park
+EALC-120,Japanese I,Maki Irie
+,,Maki Irie
+,,Yuka Kumagai
+,,
+EALC-121,Extensive Reading in Japanese I,Yuka Kumagai
+EALC-122,Japanese II,Mamiko Konno
+,,Mitsuhiro Kono
+,,Mitsuhiro Kono
+EALC-145g,"Introduction to Chinese Culture, Art and Literature",Mengxiao Wang
+,,
+,,
+EALC-150gw,Global Chinese Cinema and Cultural Studies,Brian Bernards
+,,
+,,
+,,
+,,
+,,
+,,
+EALC-204,Chinese III,Christopher Magriney
+,,Yi-Hsien Liu
+,,Christopher Magriney
+,,Yi-Hsien Liu
+EALC-206,Chinese IV,Christopher Magriney
+EALC-215,Korean III,Bo Hyun Kim
+,,Bo Hyun Kim
+EALC-217,Korean IV,Eunju Na
+EALC-220,Japanese III,Masako Tamanaha
+,,Masako Tamanaha
+,,Mamiko Konno
+EALC-221,Extensive Reading in Japanese II,Yuka Kumagai
+EALC-222,Japanese IV,Yumi Matsumoto
+EALC-250,"Nation, Culture and Power in East Asia",Jenny Chio
+EALC-304,Advanced Modern Chinese I,Tin-Yu Tseng
+EALC-306,Advanced Modern Chinese II,Hsiao-Yun Liao
+EALC-315,Advanced Korean I,Seojin Park
+EALC-320,Advanced Japanese I,Masako Tamanaha
+EALC-322,Advanced Japanese II,Mitsuhiro Kono
+EALC-342gp,Japanese Literature and Culture,Kerim Yasar
+,,
+,,
+EALC-350gp,Chinese Civilization,Bettine Birge
+,,
+,,
+EALC-358g,Transnational Chinese Literature and Culture,Kin Tak Raymond Tsang
+,,
+,,
+EALC-366,Chinese Professional Internship: Communication and Culture,Christopher Magriney
+EALC-380,Cultural Topics in East Asian Literature,Kangni Huang
+EALC-400,Classical Chinese I,Mengxiao Wang
+EALC-406,Advanced Modern Chinese IV,Xiang Jian
+EALC-412a,Business Chinese,Yi-Hsien Liu
+EALC-418,Korean Multiliteracy in Contemporary Contexts,Eunju Na
+EALC-422,Advanced Japanese III,Maki Irie
+EALC-483,East Asian Garden and Designed Landscape,Miya Elise Desjardins
+EALC-490x,Directed Research,
+EALC-494a,Honors Thesis,
+EALC-494b,Honors Thesis,
+EALC-509,Transnational Korean Cinema,Youngmin Choe
+EALC-531,Proseminar in Chinese Cultural History,Bettine Birge
+EALC-535,Proseminar in Chinese Visual Culture,Jenny Chio
+EALC-588a,Directed Readings,
+EALC-588b,Directed Readings,
+EALC-590,Directed Research,
+EALC-593,Teaching Practicum for East Asian Studies,
+EALC-594a,Master's Thesis,
+EALC-594b,Master's Thesis,
+EALC-594z,Master's Thesis,
+EALC-794a,Doctoral Dissertation,
+EALC-794b,Doctoral Dissertation,
+EALC-794c,Doctoral Dissertation,
+EALC-794d,Doctoral Dissertation,
+EALC-794z,Doctoral Dissertation,
+EE-105,Introduction to Electrical Engineering,Yasser Khan
+EE-109L,Introduction to Embedded Systems,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+EE-141L,Applied Linear Algebra for Engineering,Todd Brun
+,,
+,,
+,,
+,,
+EE-155L,Introduction to Computer Programming for Electrical Engineers,Ajitesh Srivastava
+,,
+EE-202L,Linear Circuits,Susan Schober
+,,Susan Schober
+,,
+,,
+,,
+EE-250L,Distributed Systems for the Internet of Things,Bhaskar Krishnamachari
+,,
+,,
+EE-301,Linear Systems,Chris Kyriakakis
+,,Chris Kyriakakis
+EE-338,Physical Electronics,Stephen Cronin
+,,Stephen Cronin
+EE-348L,Electronic Circuits,Susan Schober
+EE-354L,Introduction to Digital Circuits,Gandhi Puvvada
+,,
+,,
+,,
+,,
+EE-364,Introduction to Probability and Statistics for Electrical Engineering and Computer Science,Leana Golubchik
+,,Leana Golubchik
+,,Michael Neely
+,,Michael Neely
+EE-370L,Electromagnetics for Engineering Systems,Gianluca Lazzi
+,,Gianluca Lazzi
+,,Aluizio Prata
+,,Aluizio Prata
+EE-443,Introduction to Power Systems,Mohammed Beshir
+,,
+EE-444,Power Systems Technology,Mohammed Beshir
+,,
+,,
+,,
+EE-445L,Introduction to Robotics,
+,,Heather Culbertson
+,,
+,,
+EE-450,Introduction to Computer Networks,Feng Qian
+,,Feng Qian
+,,Cauligi Raghavendra
+,,Cauligi Raghavendra
+,,Ali Zahid
+,,Ali Zahid
+,,Ali Zahid
+,,Ali Zahid
+,,Ali Zahid
+,,Ali Zahid
+EE-451,Parallel and Distributed Computation,
+,,
+EE-454L,Introduction to System-on-Chip,Shahin Nazarian
+,,
+EE-455x,Introduction to Programming Systems Design,Claire Bono
+,,
+,,
+,,
+,,
+,,Claire Bono
+,,
+EE-457,Computer Systems Organization,Gandhi Puvvada
+,,
+,,Gandhi Puvvada
+,,
+,,
+,,
+,,
+,,
+EE-477L,MOS VLSI Circuit Design,Shahin Nazarian Massoud Pedram
+,,Shahin Nazarian
+,,Shahin Nazarian
+,,
+,,
+,,
+,,
+,,
+EE-482,Linear Control Systems,Richard Chiang
+,,
+,,
+EE-483,Introduction to Digital Signal Processing,Justin Haldar
+,,Justin Haldar
+,,
+,,
+EE-490x,Directed Research,Michelle Povinelli Bhaskar Krishnamachari
+EE-494a,Undergraduate Thesis,
+EE-494b,Undergraduate Thesis,
+EE-503,Probability for Electrical and Computer Engineers,Brandon Franzke
+,,Brandon Franzke
+,,
+,,Bart Kosko
+,,Bart Kosko
+,,Andreas Molisch
+,,Andreas Molisch
+,,Andreas Molisch
+,,Andreas Molisch
+EE-507,Micro- and Nano-Fabrication Technology,Wei Wu
+EE-509,Nanophotonics and Metamaterials,Michelle Povinelli
+EE-510,Linear Algebra for Engineering,
+,,
+,,
+,,
+,,
+,,
+EE-511,Machine Learning Hardware Accelerators,Mehdi Kamal
+,,
+EE-512,Stochastic Processes for Financial Engineering,George Papavassilopoulos
+,,George Papavassilopoulos
+,,
+,,
+EE-514,Quantum Error Correction,Daniel Lidar
+EE-515,"Quantum Sensing: Machine Learning, Inference and Information",Quntao Zhuang
+EE-516,High-Voltage DC Transmission Systems,Mohammed Beshir
+,,Mohammed Beshir
+EE-518,Mathematics and Tools for Financial Engineering,George Papavassilopoulos
+,,George Papavassilopoulos
+,,
+,,
+EE-520,Introduction to Quantum Information Processing,Todd Brun
+EE-525,Power System Protection,Backer Abu-Jaradeh
+,,Backer Abu-Jaradeh
+EE-530,"Optical Materials, Instruments and Devices",Demetri Christodoulides
+EE-534,Materials Characterization,
+EE-536a,Analog Integrated Circuits,Mike Shuo-Wei Chen
+,,Mike Shuo-Wei Chen
+,,
+,,
+EE-537,Modern Solid-State Devices,Chongwu Zhou
+EE-538,Computing Principles for Electrical Engineers,Arash Saifhashemi
+,,Arash Saifhashemi
+,,
+,,
+EE-539,Engineering Quantum Mechanics,Tony Levi
+,,
+EE-541,A Computational Introduction to Deep Learning,Brandon Franzke
+EE-542,Internet and Cloud Computing,Young Cho
+EE-545,Robotics,
+,,Daniel Seita
+,,
+EE-546,Mathematics of High-Dimensional Data,Mahdi Soltanolkotabi
+EE-547,Applied and Cloud Computing for Electrical Engineers,Brandon Franzke
+,,Brandon Franzke
+EE-554,Cyber-Physical Systems: A Computing Perspective,Paul Bogdan
+,,
+,,
+EE-557,Computer Systems Architecture,Murali Annavaram
+,,Murali Annavaram
+,,
+,,
+EE-561,Foundations of Artificial Intelligence,Wei-Min Shen
+,,
+,,
+,,Wei-Min Shen
+,,
+,,
+EE-572L,Electromagnetic Wave Engineering,Aluizio Prata
+,,
+EE-576,Integrated Memory Devices and Technologies,Joshua Yang
+,,Joshua Yang
+,,
+,,
+EE-577a,VLSI System Design,Sandeep Gupta Sridhar Narayanan
+,,
+,,
+,,
+,,
+,,
+EE-577b,VLSI System Design,Moe Tabar
+,,
+,,Moe Tabar
+,,
+EE-585,Linear System Theory,Mihailo Jovanovic
+,,Mihailo Jovanovic
+EE-588,Optimization for the Information and Data Sciences,Mahdi Soltanolkotabi
+,,
+EE-641,Deep Learning Systems,Brandon Franzke
+EE-653,Advanced Topics in Microarchitecture,Murali Annavaram
+EE-658,Diagnosis and Design of Reliable Digital Systems,Moe Tabar
+EE-660,Machine Learning II: Mathematical Foundations and Methods,Stephen Tu
+,,Stephen Tu
+,,
+,,
+EE-675,Data Analysis and Control Techniques for Neurotechnology Des,Maryam Shanechi
+EE-676,Advanced Computer Vision,Ramakant Nevatia
+,,Ramakant Nevatia
+EE-682,"Law, AI and Intellectual Property for Engineers",Bart Kosko
+EE-690,Directed Research,
+EE-698,Doctoral Seminar Series,
+EE-790,Research,
+EE-794a,Doctoral Dissertation,
+EE-794b,Doctoral Dissertation,
+EE-794c,Doctoral Dissertation,
+EE-794d,Doctoral Dissertation,
+EE-794z,Doctoral Dissertation,
+FBE-206,The Power of Personal Finance,
+,,
+FBE-391,Real Estate Finance and Investment,Selale Tuzel
+,,Selale Tuzel
+FBE-400x,Introduction to Real Estate Finance and Development,
+FBE-403,Introduction to the Legal Environment of Business,Kevin Fields
+FBE-421,Financial Analysis and Valuation,Julia Plotts
+,,Julia Plotts
+,,Julia Plotts
+,,Scott Abrams
+FBE-423,Introduction to Venture Capital and Private Equity,
+FBE-424,Financial Institutions and Capital Markets,
+FBE-427,Real Estate Law,
+FBE-428,Introduction to Employment Law,
+FBE-429,International Business Law,
+FBE-430,Introduction to Decentralized Finance - DeFi,
+FBE-432,Corporate Financial Strategy,
+FBE-435,Applied Finance in Fixed Income Securities,
+FBE-437,Entrepreneurial Finance: Financial Management for Developing Firms,Duke Bristow
+,,Duke Bristow
+FBE-441,Investments,
+,,
+FBE-453,Practicum in Investment Management - Security Selection,
+FBE-458,"Law of Forming, Financing and Managing Businesses",
+FBE-459,Financial Derivatives,
+FBE-462,"International Trade, Finance and Commercial Policy",
+FBE-465,Real Estate Analysis and Computer Modeling,
+FBE-468,International Real Estate Analysis,
+FBE-491,Real Estate Finance Colloquium,
+FBE-501,Investment Banking Fundamentals,Brian Little
+FBE-505,Behavioral Finance,
+FBE-506,Quantitative Methods in Finance,Mohammad Safarzadeh
+,,Mohammad Safarzadeh
+FBE-523,Venture Capital and Private Equity,
+FBE-524,Money and Capital Markets,
+FBE-527,Entrepreneurial Finance: Financial Management for Developing Firms,Duke Bristow
+,,Duke Bristow
+FBE-529,Financial Analysis and Valuation,Scott Abrams
+FBE-530,Decentralized Finance (DeFi),
+FBE-531,Corporate Financial Policy and Corporate Governance,Kenneth Ahern
+,,Kenneth Ahern
+FBE-532,Corporate Financial Strategy,Ayca Altintig
+FBE-551,Quantitative Investing,Shane Shepherd
+,,
+FBE-553a,Applied Portfolio Management,Suh-Pyng Ku
+FBE-555,Investment Analysis and Portfolio Management,
+,,
+FBE-558,"Law for Structuring, Financing, and Managing Businesses",Kerry Fields
+FBE-559,Management of Financial Risk,Jason Donaldson
+FBE-560,Mergers and Acquisitions,
+FBE-589,Mortgages and Mortgage-Backed Securities and Markets,Richard Green
+FBE-590,Directed Research,
+FBE-591,Real Estate Finance and Investment,
+FBE-593,Independent Research in Finance or Business Economics,
+FBE-595,Internship in Finance or Business Economics,
+FBE-596,Research Practicum in Finance or Business Economics,
+,,
+FBE-597,Consulting Project in Finance or Business Economics,
+FBE-621,Research Forum,Kenneth Ahern Lukas Schmid
+FBE-670,Selected Topics in Finance Research,
+,Psychology and Financial Markets,
+FREN-012x,French 120 Language Practicum,
+FREN-015x,French 150 Language Practicum,Guilan Siassi
+FREN-120,French I,Julia Chamberlin
+,,Julia Chamberlin
+,,
+,,
+FREN-150,French II,Guilan Siassi
+,,Guilan Siassi
+,,Jennifer Misran
+,,Jennifer Misran
+,,Jennifer Misran
+,,Mina Soroosh
+FREN-175,Accelerated French for Speakers of Spanish and Other Romance Languages,Ruggero Sciuto
+FREN-220,French III,Nathalie Burle
+,,Nathalie Burle
+,,Rania Ben Amor
+,,Rania Ben Amor
+,,Rania Ben Amor
+,,Mina Soroosh
+,,Mina Soroosh
+,,
+FREN-235x,Intermediate Conversational French,Julia Chamberlin
+FREN-250,French IV,Robert Decker
+,,
+FREN-270gw,Black Europe,Edwin Hill
+,,
+,,
+,,
+,,
+FREN-272gp,"Medicine, Health and the Body in Literature and Culture",Julie Van Dam
+FREN-300,French Grammar and Composition,Atiyeh Showrai
+FREN-330,Critical Writing in French,Beatrice Mousli
+FREN-347g,"Race, Gender and Power in Francophone Literature",Robert Decker
+FREN-383,French Women Writers,Antonia Szabari
+FREN-393,Theories and Theorists,Natania Meeker
+FREN-404,Studies in an Author,Panivong Norindr
+FREN-448m,France and Islam,Olivia C Harrison
+FREN-490x,Directed Research,
+FREN-500,Pro-Seminar in French and Francophone Studies,Edwin Hill
+FREN-592,Practicum in Teaching French,Julia Chamberlin
+GEOL-105Lg,Planet Earth,Sylvain Barbot
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+GEOL-107Lg,Oceanography,Karen Lloyd
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+GEOL-150Lg,Climate Change,Lowell Stott
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+GEOL-160Lg,Introduction to Geosystems,Steve Lund
+,,
+,,
+,,
+,,
+,,
+,,
+GEOL-240Lg,Earthquakes,James Dolan
+,,
+,,
+,,
+,,
+,,
+,,
+GEOL-290L,Special Laboratory,
+,Tba,Frank Corsetti
+GEOL-315L,Minerals and Earth Systems,Caroline Seyler
+,,
+GEOL-320L,Surficial Processes and Stratigraphic Systems,Frank Corsetti
+,,
+GEOL-425L,Data Analysis in the Earth and Environmental Sciences,Julien Emile-Geay
+,,
+GEOL-432L,Introduction to Field Techniques,Noah Phillips
+,,
+GEOL-470L,Environmental Hydrogeology,Josh West
+,,
+GEOL-490x,Directed Research,David Bottjer
+GEOL-494x,Senior Thesis,David Bottjer
+GEOL-501,Paleobiology,David Bottjer
+GEOL-512,Introduction to Chemical and Physical Oceanography,
+,,
+GEOL-513,Practical Carbonate Chemistry,William Berelson
+GEOL-558,Inverse Theory in the Earth Sciences,Heidi Houston
+GEOL-564,Isotope Geochemistry,Seth John
+GEOL-566,Geochemistry Seminar,Josh West
+GEOL-590,Directed Research,Frank Corsetti
+GEOL-593,Practicum in Teaching the Liberal Arts,William Berelson
+GEOL-594a,Master's Thesis,
+GEOL-594b,Master's Thesis,
+GEOL-594z,Master's Thesis,
+GEOL-600,Earth Sciences Colloquium,John Vidale
+GEOL-609,Seminar in Earthquake Physics,John Vidale
+GEOL-790,Research,Frank Corsetti
+GEOL-794a,Doctoral Dissertation,
+GEOL-794b,Doctoral Dissertation,
+GEOL-794c,Doctoral Dissertation,
+GEOL-794d,Doctoral Dissertation,
+GEOL-794z,Doctoral Dissertation,
+GERO-200,Gerontology: The Science of Adult Development,John Walsh Julia Walsh
+GERO-300,Introduction to Geroscience Research,Sean Curran
+GERO-301,Current Topics in Geroscience Research,Sean Curran
+GERO-310,Physiology of Aging,John Walsh Tara Mastro
+GERO-320g,Psychology of Adult Development,Deborah Fui-Yuen Hoe
+GERO-321,Introduction to Psychology and Aging,Deborah Fui-Yuen Hoe
+GERO-330,Society and Adult Development,Deborah Fui-Yuen Hoe
+GERO-380m,Diversity in Aging,Julie Bates Tameka Brown
+GERO-411L,"Physiology, Nutrition, and Aging",Valter Longo
+GERO-415,Neuroaffective Disorders of Aging,Teal Eich
+GERO-461,Seminar in Molecular and Computational Biology,
+,The Cellular Basis of Learning and Memory,Don Arnold
+GERO-470,Aging and Business,Deborah Fui-Yuen Hoe
+GERO-475,Ethical Issues in Geriatric Health Care,Caroline Cicero
+GERO-478,"Genetics of Aging in UK, Ireland and the United States",Sean Curran
+GERO-483,Global Health and Aging,Aaron Hagedorn
+GERO-490x,Directed Research,
+GERO-491,Practicum,Aaron Hagedorn
+GERO-495,Practicum in Geriatric Care,Roberto Vicinanza
+GERO-497a,Honors Seminar,Tara Mastro
+GERO-497b,Honors Seminar,Tara Mastro
+GERO-497c,Honors Seminar,Tara Mastro
+GERO-500,Perspectives on a Changing Society: An Introduction to Aging,Aaron Hagedorn
+,,Caroline Cicero
+GERO-501,Applied Legal and Regulatory Issues in Aging,Julia Walsh
+,,Julia Walsh
+GERO-502,Marketing and Shifts in Consumer Decision Making,Joshua Johnson James Biggs
+,,Joshua Johnson James Biggs
+GERO-504,Current Issues in Aging Services Management,James Biggs Joshua Johnson
+,,
+GERO-507,End of Life Care,Susan Enguidanos
+,,Susan Enguidanos
+GERO-510,Physiology of Development and Aging,Changhan Lee
+,,Changhan Lee
+GERO-511,Fundamentals of Clinical Nutrition Screening and Assessment,Socorro Carranza
+,,Socorro Carranza
+GERO-512,Communicating Nutrition and Health,Carin Kreutzer
+,,Carin Kreutzer
+GERO-513,Fundamentals of Nutrition: Macronutrients,Roberto Vicinanza
+,,Roberto Vicinanza
+GERO-515L,Food Production and Food Service Management,Nick Padula
+,,Nick Padula
+GERO-518,Current Topics in Clinical Nutrition,Carin Kreutzer
+,,Carin Kreutzer
+GERO-520,Life Span Developmental Psychology,Elizabeth Zelinski Paul Nash
+,,Elizabeth Zelinski Paul Nash
+GERO-530,Life Span Developmental Sociology,Paul Nash Lauren Brown
+,,Paul Nash Lauren Brown
+GERO-540,Social Policy and Aging,Kate Wilber Mireille Jacobson
+,,Kate Wilber Mireille Jacobson
+GERO-555,Integrating Gerontology: A Multidisciplinary Approach,Andrei Irimia
+,,Andrei Irimia
+GERO-564,"Multiple Chronic Conditions, Polypharmacy and Geriatric Synd",Roberto Vicinanza
+,,Roberto Vicinanza
+GERO-566,Cognitive Decline: Alzheimer's Disease and Dementia and Adva,Daniel Nation
+,,Daniel Nation
+GERO-567,"Prevention of Chronic Diseases through Nutrition, Physical A",Roberto Vicinanza Julie Pollard
+,,Roberto Vicinanza Julie Pollard
+GERO-568,Adaptive Age-Friendly Environments and Injury Prevention,Manuel Acevedo
+,,Manuel Acevedo
+GERO-574,Leadership and Management in Senior Living,Joshua Johnson James Biggs
+,,Joshua Johnson James Biggs
+GERO-576,Finance and Senior Living,DeWayne Mc Mullin
+,,DeWayne Mc Mullin
+GERO-578,Revenue Management for Senior Living,DeWayne Mc Mullin
+,,DeWayne Mc Mullin
+GERO-589,Case Studies in Leadership and Change Management,
+,,
+GERO-590,Directed Research,Carin Kreutzer
+,,Carin Kreutzer
+,,
+GERO-591,Field Practicum,Carin Kreutzer Nick Padula
+,,Aaron Hagedorn
+,,Aaron Hagedorn
+,,Carin Kreutzer Nick Padula
+GERO-593,Research Methods,Tara Mastro Michelle Keller
+,,Tara Mastro Michelle Keller
+GERO-600,Geroscience: Molecular and Cellular Biology,Christian Pike
+,,Christian Pike
+GERO-602a,Seminar on Discoveries in Biogerontology,Christian Pike Valter Longo
+GERO-603,Research Integrity,Cristal Hill
+GERO-604,Geroscience Scientific Writing,Ryo Sanabria
+GERO-614L,Laboratory Rotations in the Biology of Aging,Sean Curran
+GERO-619,Neuroscience of Human Aging,Mara Mather
+GERO-790,Research,Sean Curran
+,,Sean Curran
+,,Sean Curran
+GERO-794a,Doctoral Dissertation,
+,,
+,,
+GERO-794b,Doctoral Dissertation,
+,,
+,,
+GERO-794c,Doctoral Dissertation,
+,,
+,,
+GERO-794d,Doctoral Dissertation,
+,,
+,,
+GERO-794z,Doctoral Dissertation,
+,,
+,,
+HBIO-120,Introduction to Human and Evolutionary Biology,Helaine Lopes
+HBIO-200Lg,The Human Animal,Chrisandra Kufeldt
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+HBIO-202g,Nutrition for Life,Gioia Polidori
+,,Helaine Lopes
+,,Helaine Lopes
+,,Joshua Carlos
+,,Joshua Carlos
+,,Joshua Carlos
+,,Gudrun Floyd
+HBIO-205Lxg,The Science of Sport,Helen (Eleni) Soultanakis
+,,Helen (Eleni) Soultanakis
+,,Joshua Carlos
+,,Joshua Carlos
+,,Gudrun Floyd
+,,Lisa Le
+,,Lisa Le
+,,Lisa Le
+,,Gudrun Floyd
+,,
+HBIO-210Lg,Mediterranean and Healthy Lifestyles in the World,Helen (Eleni) Soultanakis
+,,Gudrun Floyd
+,,Gudrun Floyd
+HBIO-250g,The Pharmacology of Performance-Enhancing Drugs,Kurt Kwast
+,,
+,,
+,,
+,,
+HBIO-300,"Evolution, Ecology, and Culture",Michael Campbell
+HBIO-301L,Human Anatomy,Kurt Kwast
+,,Joshua Carlos
+,,Joshua Carlos
+,,Jose Ubeda
+,,Jose Ubeda
+,,Jose Ubeda
+,,Lisa Le
+,,Lisa Le
+HBIO-302L,Nutrition and Metabolism,Tito Borner
+,,Charles (Kiki) Crawford
+,,Gudrun Floyd
+,,
+,,
+,,Gudrun Floyd
+,,Gudrun Floyd
+,,
+,,
+HBIO-308,Origins and Evolution of Human Behavior,Chrisandra Kufeldt
+HBIO-309,The Human Machine,Chrisandra Kufeldt
+HBIO-360L,Nutrition and Disease,Gioia Polidori
+,,Lisa Le
+,,Lisa Le
+,,
+,,Charles (Kiki) Crawford
+,,Charles (Kiki) Crawford
+HBIO-408L,Biomechanics,Laura Held
+,,Shannon Cross
+,,Shannon Cross
+,,Shannon Cross
+,,Shannon Cross
+HBIO-420L,Applied Human Physiology,Kurt Kwast
+,,Gudrun Floyd
+,,Joshua Carlos
+,,Lisa Le
+HBIO-441L,Prevention of Athletic Injuries,Helaine Lopes
+HBIO-491,Laboratory Experience in Kinesiology,
+IML-140,Workshop in Multimedia Authoring,
+,Short Form Video Storytelling for the Web,Jeanne Jo
+IML-201,The Languages of Digital Media,David Johnson
+IML-202,Media Arts and Practice Studio I,Evan Hughes
+,,Michael Bodie
+IML-230,Introduction to Visual Design,Renee Reizman
+IML-288,Introduction to Creative Coding,Jeanne Jo
+IML-300,Introduction to Creative Web Programming,Qianqian Ye
+IML-310,Professionalism for Media Arts,Ashley York
+IML-328,Introduction to Sound,Kim Zumpfe
+IML-335,Introduction to Video,Ashley York
+IML-346,Methods in Digital Research,Virginia Kuhn
+IML-354,Introduction to 3-D Modeling,Carrie Chen
+IML-424,The Music Festival Experience,Evan Hughes
+IML-430,Advanced Platform: Visual Design,
+IML-440,Thesis Studio,Elizabeth Ramsey
+,,David Johnson
+IML-453,Design Fiction and Speculative Futures,Aisling Kelliher
+IML-454,Advanced Platform: 3-D Design,Todd Furmanski
+IML-466,Digital Studies Symposium,Holly Willis
+IML-477,Embodied Storytelling and Immersive Docu-Narratives,Michael Bodie
+IML-490,Directed Research,
+,,
+IML-501L,Digital Media Authorship and the Archive,Virginia Kuhn
+IML-560,Embodied Knowledge and the Fantastical,Virginia Kuhn
+IML-570,Topics in Ethnographic Media Arts,
+,Ethnofiction,Stephanie Spray
+IML-575,Graduate Media Arts Research Lab,
+,"World Building, Narrative Design and Design Visualization",Alexander Mcdowell
+,"Media, Machines and Memoirs",Aisling Kelliher
+IML-590,Directed Research,
+,,
+,,
+IML-602,Practice of Media Arts,
+IML-607,Critique and Criticality,
+IML-794a,Doctoral Dissertation,
+IML-794b,Doctoral Dissertation,
+IML-794c,Doctoral Dissertation,
+IML-794d,Doctoral Dissertation,
+IML-794z,Doctoral Dissertation,
+IR-101xgw,International Relations,Douglas Becker
+,,
+,,
+,,
+,,
+,,
+,,
+IR-150xg,Environmental Issues in Society,Shannon Gibson
+IR-210gw,International Relations: Introductory Analysis,
+,,Steven Lamy
+,,
+,,
+,,
+,,
+,,
+IR-211g,International Relations: Approaches to Research,Megan Becker
+,,
+,,
+IR-212,Historical Approaches to International Relations,Jacques Hymans
+,,
+,,
+IR-213,The Global Economy,Alix Ziff
+,,
+,,
+IR-304,National Intelligence and the Shaping of Policy,Derek Grossman
+IR-305w,Managing New Global Challenges,Alix Ziff
+IR-307,Contemporary International Politics,
+,Human Rights in Post-Soviet Eurasia,Steve Swerdlow
+IR-316,Gender and Global Issues,Sara Angevine
+IR-320,Technology and International Relations,Robert English
+IR-324,Multinational Enterprises and World Politics,Douglas Becker
+IR-325,North-South Relations in the Global Economy,
+IR-330,Politics of the World Economy,Iva Bozovic
+IR-339,Public Health and International Relations,Heather Wipfli
+IR-341,Foreign Policy Analysis,Jeffrey Fields
+IR-342,The Politics and Strategy of Weapons of Mass Destruction,
+,The Politics and Strategy of Weapons of Mass Destruction,Jonathan Markowitz
+IR-364,The Political Economy of Latin American Development,Monica Unda Gutierrez
+IR-365,Politics and Democracy in Latin America,Gerardo Munck
+IR-384,Asian Security Issues,Derek Grossman
+IR-391,Directed International Relations Field Study,Iva Bozovic
+IR-401,The United Nations and World Order,Douglas Becker
+IR-402,Theories of War,Megan Becker
+IR-412,Applied Data Science for International Relations 1,Benjamin A.T. Graham
+IR-431,"Commercial and Financial Globalization-Trends, Challenges",Joshua Aizenman
+IR-443,Formulation of U.S. Foreign Policy,Jeffrey Fields
+IR-447w,Cities of the Middle East,Bandar Alsaeed
+IR-454,The International Political Economy of Development,Carol Wise
+IR-455,The Political Economy of Autocracy,
+IR-490x,Directed Research,
+IR-499,Special Topics,
+,"Democracy, Economic Growth and Human Security in Contemporary Africa",Brett Carter
+JOUR-200w,The Power and Responsibility of the Press,Geoffrey Cowan
+JOUR-201,"Culture of Journalism: Past, Present and Future",Joe Saltzman
+JOUR-205,Journalism Practicum,
+,,
+JOUR-206,Reporting and Writing Practicum,
+,,
+,,
+,,Rebecca Haggerty
+,,
+,,
+,,Rebecca Haggerty
+,,
+,,Rebecca Haggerty
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+JOUR-207,Reporting and Writing I,Alan Abrahamson
+,,
+,,Christina Bellantoni
+,,Alan Abrahamson
+,,Alan Mittelstaedt
+JOUR-210x,Basics of News Production for Non-Majors,Christina Bellantoni
+,,Stacy Scholder
+,,Leslie Berestein Rojas
+JOUR-307,Reporting and Writing II,Rebecca Haggerty
+,,
+JOUR-320,Introduction to Coding for Storytelling,Keith Plocek
+,,
+JOUR-321,Visual Journalism,
+,,
+,,
+,,
+,,
+JOUR-322,Introduction to Investigative and Data Journalism,Dana Chinn
+,,
+,,Dana Chinn
+,,
+,,
+JOUR-323,Journalism and the Audience,Robert Hernandez
+JOUR-330,Photojournalism,Myra Turner
+JOUR-350,Introduction to Sports Media,
+JOUR-372,Engaging Diverse Communities,
+,,
+,,
+,,
+JOUR-380,"Sports, Business and Media in Today's Society",Jeff Fellenzer
+JOUR-381,"Entertainment, Business and Media in Today's Society",Mary Murphy
+JOUR-402,Advanced Video Reporting,
+,,
+,,
+,,
+,,
+JOUR-403,Television News and Sports Production,Stacy Scholder
+,,
+,,
+,,
+,,
+JOUR-404,Produce and Host Sports Content in Studio A,
+JOUR-405,Non-Fiction Television,Daniel Birman
+JOUR-406,Social Media Storytelling for Latinx Audiences,Amara Aguilar
+JOUR-407,The World of Podcasting,
+JOUR-414,Advanced Digital Media Storytelling,Myra Turner
+JOUR-425,Advanced Radio News Production,Leslie Berestein Rojas
+JOUR-431,Feature Writing,
+JOUR-432,Sports Commentary,
+JOUR-441,Sports Reporting,Alan Abrahamson
+JOUR-445,Reporting on Race,
+JOUR-446,Entertainment Reporting,Mary Murphy
+JOUR-455,The Second Draft Project,Allissa Richardson
+JOUR-458,"Media, Food and Culture",
+JOUR-461,Spanish Language News Media Production,
+JOUR-462,Law of Mass Communication,Alan Abrahamson
+,,
+JOUR-468,The American Press and Issues of Sexual Diversity,
+JOUR-469,"Money, Markets and Media",Gabriel Kahn
+JOUR-478,Politics of Sports Writing,
+JOUR-479,Storytelling for Action Sports,Keith Plocek
+JOUR-481,"The Athlete, Sports Media and Popular Culture",Joe Saltzman Jeff Fellenzer
+JOUR-486,Multiplatform Olympic and Paralympic Storytelling,
+JOUR-490x,Directed Research,Keith Plocek
+,,Peggy Bustamante
+,,Diane Winston
+,,Sandy Tolan
+,,Leslie Berestein Rojas
+,,Allissa Richardson
+,,Alan Abrahamson
+,,Amara Aguilar
+,,Christina Bellantoni
+,,Daniel Birman
+,,Geoffrey Cowan
+,,Laura Davis
+,,Vince Gonzales
+,,Rebecca Haggerty
+,,Robert Hernandez
+,,Henry Jenkins
+,,Gabriel Kahn
+,,Jonathan Kotler
+,,Alan Mittelstaedt
+,,Lisa Pecot-Hebert
+,,Gordon Stables
+,,Joe Saltzman
+,,Stacy Scholder
+,,Laura Castaneda
+,,Dana Chinn
+,,Mark Schoofs
+,,Myra Turner
+,,Ben Carrington
+,,Jeff Fellenzer
+,,Mary Murphy
+,,Oscar Garza
+JOUR-491,News Leadership,Mark Schoofs
+JOUR-499,Special Topics,
+,Bridging the Media Gap Between L.A. Influencers and Independent Journalists,Amara Aguilar
+,AI in Journalism: Ethics and Tools,
+,Problem Solving with AI,
+,"Power, Players and Platforms in Global Sports",David Belasco
+,Producing a Sports Talk Show,
+JOUR-510,Special Assignment Reporting,
+,Sports,Jeff Fellenzer
+,Entertainment,Mary Murphy
+JOUR-521,Documentary Pre-Production,Daniel Birman
+JOUR-531,Fall Digital Journalism Immersion,
+,,Alan Mittelstaedt Vince Gonzales
+JOUR-532,Fall Digital Journalism Immersion Practicum,Alan Mittelstaedt
+,,
+JOUR-539,Introduction to Investigative Reporting,
+,,
+JOUR-552,Video Reporting and Production,
+JOUR-553,Coding and Programming for Storytelling,Peggy Bustamante
+,,Peggy Bustamante
+JOUR-556,Digital Investigations I: Introduction to OSINT Reporting,
+JOUR-567,The Power of Narrative,
+JOUR-568,The Art of (Micro) Food Journalism: Los Angeles and Californ,
+JOUR-579,Journalism Internship,
+,,
+JOUR-580,Reporting on Race and Justice,Allissa Richardson
+JOUR-587,Los Angeles Culture: 1960 to Today,Oscar Garza
+JOUR-590,Directed Research,Amara Aguilar
+,,Alan Mittelstaedt
+,,Laura Castaneda
+,,Christina Bellantoni
+,,Daniel Birman
+,,Peggy Bustamante
+,,Dana Chinn
+,,Keith Plocek
+,,Laura Davis
+,,Geoffrey Cowan
+,,Vince Gonzales
+,,Rebecca Haggerty
+,,Mary Murphy
+,,Oscar Garza
+,,Robert Hernandez
+,,Alan Abrahamson
+,,Henry Jenkins
+,,Gabriel Kahn
+,,Jonathan Kotler
+,,Lisa Pecot-Hebert
+,,Allissa Richardson
+,,Gordon Stables
+,,Jeff Fellenzer
+,,Joe Saltzman
+,,Stacy Scholder
+,,Mark Schoofs
+,,Leslie Berestein Rojas
+,,Sandy Tolan
+,,Myra Turner
+,,Diane Winston
+,,Ben Carrington
+JOUR-592,Arts Journalism: Storytelling and Production,
+JOUR-594a,Master's Thesis,Oscar Garza
+,,Oscar Garza
+JOUR-595,Critical Thinking: The Art and Science of Not Getting Fooled,Sandy Tolan
+LAW-150,"Stereotypes, Prejudice and the Rule of Law",Jody Armour
+LAW-200w,Law and Society,Felipe Jimenez
+LAW-201,Law and Politics,Franita Tolson
+LAW-203,Criminal Punishment in the Age of Mass Incarceration,Dan Simon
+LAW-205,Introduction to Criminal Law,Peter Johnson
+LAW-207,Personal Data in the 21st Century,Hinh Tran
+LAW-210p,Fundamentals of the U.S. Legal System,Donald Scotten
+LAW-212,Immigration Law for a New America,Jean Reisz
+LAW-220,The Legal Profession,Robert Rasmussen
+LAW-222,Interdisciplinary Perspectives on the Law,Abby Wood
+LAW-250w,Children and the Law,
+LAW-300,Concepts in American Law,Mark Haddad
+,,Nomi Stolzenberg
+LAW-305,International Influence: Law and Power,Iryna Zaverukha
+LAW-306,Issues in the Use of AI in Law and Regulation,
+LAW-311,Fundamentals of Entertainment Law,
+LAW-352,Introduction to Law and Economics,Robert Maniscalco
+LAW-401,Cybersecurity and Cybercrime,
+LAW-402,Psychology and Law,Rakel Larson
+LAW-407,Regulatory Law,
+LAW-492,Undergraduate Law Review,
+LAW-497,Legal Studies Capstone Project,Dave Campbell
+,,
+LAW-498,Law Internship,
+LIM-500,Foundations of Library and Information Science,Ruth Wallach
+LIM-502,User-Centered Collection Development,Joy Shoemaker
+,,Shannon Robinson
+LIM-503,Information Organization and Description for User Engagement,Marta Golbano
+LIM-504,Social Science Research Methods in Library and Information S,Eimmy Solis
+LIM-509,Information Sources and Services,Stacy Williams
+LIM-519,Leading Values-Driven Information Organizations,Renee Di Pilato
+LIM-529,User Services and Community Engagement in Libraries,Jennifer Dinalo
+LIM-541,Archives and Digital Curation,Ben Alexander
+,,Michaela Ullmann
+LIM-549,"Justice, Equity and Ethics in Information Organizations",Cindy Guyer
+LIM-598,Capstone in Library and Information Management,Jade Winn
+MASC-110L,Materials Science,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+MASC-310L,Materials Behavior and Processing,
+,,
+,,
+,,
+,,
+,,
+,,
+MASC-334L,Mechanical Behavior of Materials,Bora Gencturk
+,,
+,,
+,,
+,,
+MASC-350L,"Nanostructured Materials: Design, Synthesis and Processing",
+,,
+MASC-475,Physical Properties of Polymers,
+MASC-503,Thermodynamics of Materials,
+,,
+MASC-505,Crystals and Anisotropy,
+MASC-507,Micro- and Nano-Fabrication Technology,Wei Wu
+MASC-515,"Machine Learning in Materials, Chemical and Energy Engineeri",
+MASC-520,Mathematical Methods for Deep Learning,
+MASC-534,Materials Characterization,
+MASC-539,Engineering Quantum Mechanics,Tony Levi
+,,
+MASC-551,Mechanical Behavior of Engineering Materials,
+,,
+MASC-570,Introduction to Photovoltaic Solar Energy Conversion,Anupam Madhukar
+MASC-575,Basics of Atomistic Simulation of Materials,
+,,
+MASC-590,Directed Research,
+MASC-594a,Master's Thesis,
+MASC-594b,Master's Thesis,
+MASC-594z,Master's Thesis,
+MASC-598,Materials Science Seminar,
+MASC-790,Research,
+MASC-794a,Doctoral Dissertation,
+MASC-794b,Doctoral Dissertation,
+MASC-794c,Doctoral Dissertation,
+MASC-794d,Doctoral Dissertation,
+MASC-794z,Doctoral Dissertation,
+MDA-300x,The Dornsife Toolkit,
+,Managing the Work/Life Balance - A Blueprint for Vitality,Stephanie Eggert
+,Personal Economics,Lodovico Pizzati
+,Careers in Contemporary Health Care,Helaine Lopes
+,Images of Los Angeles-Visualizing Data,Andrzej Rutkowski
+,The Practice of Narrative Medicine,Julie Van Dam
+MDA-333,Colloquium in Armenian Studies: Social and Cultural Issues,Shushan Karapetian
+MS-101,Foundations of Officership,
+,,
+MS-201,Individual Leadership Studies,
+,,
+MS-301,Leadership and Problem Solving,
+,,
+MS-401,Leadership and Management,
+,,
+MS-490x,Directed Research,
+MUSC-102gw,World Music,Scott Spencer
+MUSC-105g,Exploring Our Musical Campus,Robert Cutietta
+MUSC-115gp,Western Music as Sounding History,Adam Gilbert
+MUSC-200mgw,The Broadway Musical: Reflections of American Diversity,Karen Parks
+MUSC-210g,Electronic Music and Dance Culture,Sean Nye
+MUSC-250mgw,The Music of Black Americans,Ron Mc Curdy
+MUSC-255,Songwriting I,Natasha Pasternak
+,,Sean Holt
+,,David Poe
+,,David Poe
+,,Natasha Pasternak
+,,Haleigh Bowers
+MUSC-320mgw,Hip-hop Music and Culture,Sean Nye
+MUSC-355,Songwriting II,Haleigh Bowers
+,,David Poe
+,,Haleigh Bowers
+MUSC-372g,"Music, Turmoil and Nationalism",Lisa Vest
+MUSC-373g,Writing About Popular Music,Joanna Demers
+MUSC-374g,"Beatles, Stones, Bowie: Empire and Masculinity",Joanna Demers
+MUSC-455,Songwriting III: The Performing Songwriter,David Poe
+MUSC-460,Film Music: History and Function From 1930 to the Present,Tim Greiving
+MUSC-481,Young Artist Project II,Veronika Krausas
+MUSC-498x,Internship in Music,Brian Head
+MUSC-598,Internship in Music,Brian Head
+MUSC-798,Internship in Music,Brian Head
+MUSC-800,Studies for the Qualifying Examination in Music,Brian Head
+NAUT-301a,Seamanship and Navigation,Lars Harding
+,,John K Ugoretz
+,,Paul Prioleau
+,,David Monk
+,,Lars Harding
+NAUT-301b,Seamanship and Navigation,Lars Harding
+NAUT-302ax,Advanced Seamanship and Navigation,Lars Harding
+NEUR-421,Neurobiology,Dion Dickman Emily Liman Lauren McElvain
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+NEUR-422,Neuropsychology,Shirin Birjandi
+NEUR-427,Neuropsychopharmacology,Shirin Birjandi
+NEUR-440,Foundations of Cognitive Neuroscience,Jason Zevin
+NEUR-462,Seminar in Neurobiology,
+,Systems Neuroscience: From Foundational Studies to Today,Judith Hirsch
+NEUR-490x,Directed Research,David McKemy
+NEUR-493x,Neuroscience Honors Seminar,Sarah Bottjer Payam Piray
+NEUR-494x,Honors Thesis,Sarah Bottjer Payam Piray
+NSCI-524,Advanced Overview of Neurosciences,
+NSCI-539,Seminar in Neurobiology,
+NSCI-596,Internship for Curricular Practical Training,
+NSCI-790,Research,
+NSCI-794a,Doctoral Dissertation,
+NSCI-794b,Doctoral Dissertation,
+NSCI-794c,Doctoral Dissertation,
+NSCI-794d,Doctoral Dissertation,
+NSCI-794z,Doctoral Dissertation,
+PHED-102a,Weight Training,Sarah McGill
+,,Sarah McGill
+,,Sarah McGill
+,,Scott Teves
+,,
+,,Kevin Robinson
+,,Kevin Robinson
+,,Kevin Robinson
+,,
+,,Kevin Robinson
+,,
+,,Diana Ordorica
+,,Scott Teves
+,,Diana Ordorica
+,,Kevin Robinson
+,,Kevin Robinson
+PHED-104a,Self-Defense,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+PHED-105,Principles of Self Defense and Personal Safety,
+,,
+PHED-106a,Physical Conditioning,Kevin Robinson
+,,Kevin Robinson
+,,Ian Culbertson
+,,Isabelle Pilliere Mazumdar
+PHED-110a,Swimming,Ian Culbertson
+,,Ian Culbertson
+,,Ian Culbertson
+,,Ian Culbertson
+,,Natalia Cascino
+,,Natalia Cascino
+PHED-115,Surfing,Ian Culbertson
+,,Ian Culbertson
+PHED-117,Sustainability and Self-Care,Kiel Shaub Amanda Gilbert
+,,Eden Goldman
+PHED-118,Sleep for Peak Performance,Eden Goldman
+,,Eden Goldman
+PHED-119,Introduction to Mindfulness,Linda Yaron Weston
+,,Linda Yaron Weston
+,Course Emphasis: Athletic Performance,Amanda Gilbert
+,,Christian Straka
+,,Martin Vitorino
+,,Linda Yaron Weston
+,,Clio Manuelian
+,,John Kneedler
+,,Clio Manuelian
+,,John Kneedler
+,,Martin Vitorino
+,,Amanda Gilbert
+,,Martin Vitorino
+,Course Emphasis: Athletic Performance,Christian Straka
+PHED-120a,Yoga,
+,,
+,,
+,,Diana Ordorica
+,,
+,,Diana Ordorica
+,,
+,,Steve Hsu
+,,Steve Hsu
+,,Stephanie Eggert
+,,Steve Hsu
+,,Stephanie Eggert
+,,Steve Hsu
+,,Steve Hsu
+,,
+,,Eden Goldman
+PHED-120b,Yoga,Isabelle Pilliere Mazumdar
+PHED-122,Yoga and Meditation,
+,Kundalini Yoga,Stephanie Eggert
+,Kundalini Yoga,Stephanie Eggert
+,Kundalini Yoga,Stephanie Eggert
+,Kundalini Yoga,Stephanie Eggert
+PHED-123,Yoga Therapy,Jennifer Guinter
+,,Diana Ordorica
+,,Diana Ordorica
+,,Jennifer Guinter
+,,
+,,Jennifer Guinter
+,,Eden Goldman
+,,
+PHED-124,Walking for Fitness,Kevin Robinson
+,,Steve Hsu
+PHED-126,AcroYoga,Jennifer Guinter
+PHED-127,Principles of Yoga Through Community Outreach,Isabelle Pilliere Mazumdar
+PHED-129a,Cardio Group Fitness,Julia Sprague
+PHED-132,Distance Running,Jennifer Guinter
+PHED-134,Hiking,Ian Culbertson
+PHED-135,Backpacking,Ian Culbertson
+,,Ian Culbertson
+PHED-138,Beach Volleyball,Julia Sprague
+,,Julia Sprague
+PHED-139a,Volleyball,Julia Sprague
+,,Julia Sprague
+PHED-139b,Volleyball,Sarah McGill
+PHED-140a,Tennis,
+,,
+,,
+PHED-144,Pickleball,Timothy Burton
+,,Timothy Burton
+,,Timothy Burton
+,,Timothy Burton
+,,Timothy Burton
+,,Timothy Burton
+PHED-148a,Archery,Laurence Mo
+,,Laurence Mo
+,,Laurence Mo
+PHED-150a,Table Tennis,Irina Jestkova
+,,Irina Jestkova
+,,Irina Jestkova
+,,Irina Jestkova
+,,Irina Jestkova
+PHED-151a,Badminton,Irina Jestkova
+,,Irina Jestkova
+PHED-153,Futsal,Shannon Cross
+,,Shannon Cross
+PHED-154a,Soccer,Diana Ordorica
+,,Diana Ordorica
+,,Diana Ordorica
+,,Shannon Cross
+PHED-155a,Golf,Timothy Burton
+,,Timothy Burton
+,,Timothy Burton
+,,Kiel Shaub
+,,Marcos Briano
+,,Marcos Briano
+,,Michael Munson
+PHED-156a,Basketball,Sarah McGill
+,,John Hunter III
+,,
+PHED-160,Stress Management for Healthy Living,Steve Hsu
+,,Jennifer Guinter
+,,Diana Ordorica
+,,Stephanie Eggert
+,,Ian Culbertson
+,,Stephanie Eggert
+,,Isabelle Pilliere Mazumdar
+,,
+,,
+,,Kevin Robinson
+,,Isabelle Pilliere Mazumdar
+,,
+PHED-161,First Aid,Sarah McGill
+,,Sarah McGill
+PHED-162,Principles of Athletic Coaching,Timothy Burton
+PHED-163,Health Coaching,Sarah McGill
+,,Sarah McGill
+PHED-165,Varsity Athletics,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+PHED-299,Special Topics,
+,Practice Planning for Motor Skill Acquisition,Shannon Cross
+,Leadership Considerations In Sport/Health/Movement,Shannon Cross
+PPD-202,Health and Health Care in America Today,Genevieve Kanter Dana Goldman
+PPD-203,Economic Analysis for Public Policy,T.J. Mccarthy
+PPD-225,Solving Public Problems,
+PPD-227,Planning for the Future City,Ken Bernstein
+PPD-240g,Citizenship and Public Ethics,Grace Bahng
+PPD-245g,The Urban Context,Marlon Boarnet
+,,Todd Gish
+PPD-300,Social Justice Issues in Public Policy and Urban Planning,Lavonna Lewis
+PPD-301,PPD Practices: Internship Seminar,Lauren Opgenorth
+PPD-303,"Statistics for Policy, Planning, and Development",Norris Gunby
+,,
+,,
+PPD-313,Finance of the Public Sector,Mark Phillips
+PPD-314,Public Policy and Law,Frank Zerunyan
+PPD-315,Analytic Foundations for Public Policy,Pamela Mccann
+PPD-325,Fundamentals of Health Policy and Management,Genevieve Kanter
+PPD-342,Crime and Public Policy,Candice Cobarrubias
+PPD-344,Environmental Policy and Sustainable Development,Antonio Bento
+PPD-357,Government and Business,
+PPD-360,Urban Transportation Planning and Policy,Selika Talbott
+PPD-361,"Sustainable Communities, Policy and Planning",Antonio Bento
+PPD-371,The Nonprofit Sector and the Public Interest,Alexandra Graddy-Reed
+PPD-373,Public Policy and Planning Analysis,
+PPD-400,Topics in Public Policy and Urban Studies,Eric Heikkila
+PPD-413,Management of Health Care Organizations,Philip Dalton
+PPD-430,Urban Informatics,Geoff Boeing
+PPD-431,"Undergraduate Policy, Planning, and Development Studio",Pedro Spindler-Ruiz
+,,Lauren Quan-Madrid
+,,Kate Nelischer
+PPD-439,Housing and Community Development,Jennifer Thomas
+PPD-490x,Directed Research,
+PPD-497a,Senior Thesis,
+PPD-503,Economics for Public Policy,Mark Phillips
+,,Antonio Bento
+PPD-504,Essential Statistics for Public Management,Gentian Droboniku
+PPD-506,Introduction to Microeconomics: Applications in Health,Neeraj Sood
+,,Neeraj Sood
+PPD-508,Health Care Operations Improvement,David Belson
+,,David Belson
+PPD-509,Problems and Issues in the Health Field,Howard Greenwald
+,,Philip Dalton
+,,Lavonna Lewis
+PPD-513,Legal Issues in Health Care Delivery,
+,,
+PPD-516,Financial Accounting for Health Care Organizations,Norris Gunby
+,,Norris Gunby
+,,
+PPD-518,Quality of Care Concepts,
+PPD-522,Planning Theory and History for a Just Society,David Sloane
+PPD-531L,Planning Studio,
+,,
+,,
+PPD-534,"Data, Evidence, and Communication of the Public Good",Geoff Boeing
+PPD-540,Fundamentals of Public Administration,William Resh
+,,Tara Blanc
+,,Tara Blanc
+PPD-541,Public Financial Management and Budgeting,Juliet Musso
+PPD-542,Policy and Program Evaluation,Howard Greenwald
+,,Nicole Esparza
+,,William Leach
+PPD-543,Internship Seminar,Thomas Eng
+PPD-545,Public and Nonprofit Organizational Behavior,Deborah Natoli
+,,Deborah Natoli
+,,Howard Greenwald
+PPD-546,Capstone in Public Administration,Dora Kingsley Vertenten
+PPD-554,Foundations of Policy Analysis,Pamela Mccann
+,,Grace Bahng
+,,
+,,Dora Kingsley Vertenten
+PPD-557,Modeling and Operations Research,Jeffrey Smith
+PPD-558,Multivariate Statistical Analysis,T.J. Mccarthy
+,,Emma Aguila Vega
+,,Juan Machado
+,,T.J. Mccarthy
+PPD-561a,Policy Analysis Practicum,Juliet Musso Grace Bahng
+PPD-569,Applied International Policy Analysis and Management Project,
+PPD-570,"Applied Statistics for Planning, Policy, and Management",Michael Lin
+PPD-571,International Public Policy and Management Seminar,Rym Kaki
+PPD-587,Risk Analysis,Ali Nowroozi
+PPD-588,Legal Issues in Transportation Planning,Patrick Harder
+PPD-590,Directed Research,
+PPD-596,Internship for Curricular Practical Training,Valerie Savior
+PPD-601,Management of Long-Term Care Organizations,Kate Wilber
+PPD-605,Frontline Issues in Health Services Administration and Policy,
+PPD-616,Participatory Methods in Planning and Policy,
+PPD-619,Smart Growth and Urban Sprawl: Policy Debates and Planning Solutions,
+PPD-621,Environmental Impacts,Geraldine Knatz
+PPD-623,Community Development and Site Planning,Elizabeth Falletta
+PPD-624,Local Economic Development: Theory and Finance,
+PPD-628,Urban Planning and Social Policy,William Leach
+PPD-631,"Geographic Information Systems for Policy, Planning, and Development",Barry Waite Bonnie Shrewsbury
+PPD-634,Institutional and Policy Issues in Transportation,
+PPD-639,Introduction to Community and Economic Development,Elizabeth Currid-Halkett
+PPD-644,Shaping the Built Environment,Meredith Drake Reitan
+PPD-647,Finance of the Public Sector,Michael Thom
+PPD-672,Collaborative Governance,Frank Zerunyan
+,,William Leach
+PPD-673,Strategic Planning in the Public Sector,Tara Blanc
+PPD-675,Nonprofit Management and Leadership,Nicole Esparza
+PPD-680,Development of Effective Groups and Organizations,Susan Sinclair
+PPD-683,Homeland Security and Public Policy,Kristine Beardsley
+PPD-689,The Nonprofit Sector and Philanthropy,Alexandra Graddy-Reed
+PPD-693,Communicating Public Policy,
+PPD-706,Research Design,Jeffery Jenkins
+PPD-708,Qualitative Methods,Annette Kim
+PPD-710a,Research Seminar,Dowell Myers
+PPD-711,Theoretical Foundation of Public Management,William Resh
+PPD-714,Advanced Urban Development,Elizabeth Currid-Halkett
+PPD-716,"Econometrics for Policy, Planning and Management I",Nicolas Duquette
+PPD-790,Research,
+PPD-794a,Doctoral Dissertation,
+PPD-794b,Doctoral Dissertation,
+PPD-794c,Doctoral Dissertation,
+PPD-794d,Doctoral Dissertation,
+PPD-794z,Doctoral Dissertation,
+PTE-411x,Introduction to Transport Processes in Porous Media,
+,,
+PTE-463L,Introduction to Transport Processes in Porous Media,
+,,
+,,
+PTE-465L,Drilling Technology and Subsurface Methods,
+,,
+PTE-490x,Directed Research,
+PTE-500,Computational Reservoir Modeling,
+,,
+PTE-502,Applied Subsurface Characterization and Engineering,
+,,
+PTE-507,Engineering and Economic Evaluation of Subsurface Reservoirs,
+,,
+PTE-519,Integrated Physical and Cyber Security for Oil and Gas Operations,
+,,
+PTE-520,Mathematical Methods for Deep Learning,
+PTE-572,Applied Geostatistical Modeling for Subsurface Characterizat,
+,,
+PTE-582,Fluid Flow and Transport Processes in Porous Media,
+,,
+PTE-588,Smart Oilfield Data Mining,
+PTE-590,Directed Research,
+PTE-594a,Master's Thesis,
+PTE-594b,Master's Thesis,
+PTE-594z,Master's Thesis,
+PTE-790,Research,
+PTE-794a,Doctoral Dissertation,
+PTE-794b,Doctoral Dissertation,
+PTE-794c,Doctoral Dissertation,
+PTE-794d,Doctoral Dissertation,
+PTE-794z,Doctoral Dissertation,
+REL-125gp,Introduction to Christianity: Antiquity to 1500,David Albertson
+,,
+,,
+,,
+,,
+,,
+,,
+REL-130g,Indian Traditions of Mind and Body,James Mchugh
+,,
+,,
+REL-146gp,Spirituality in America,Diane Winston
+REL-301,Introduction to the Study of Religion,Jill Hicks-Keeton
+REL-340,Introduction to Indian Philosophy,James Mchugh
+REL-341,"Technology, Culture, and Ethics",Sheila Briggs
+REL-345p,Islamic Spirituality: Mysticism and the Sufi Tradition,Arjun Nair
+REL-361,Law and Religion,Max Strassfeld
+REL-415,Seminar in Buddhism,Lori Meeks
+REL-448m,France and Islam,Olivia C Harrison
+REL-490x,Directed Research,
+,,
+REL-491x,Undergraduate Honors Research,
+REL-590,Directed Research,
+,,
+REL-592,Professionalization Proseminar in Religious Studies,Jill Hicks-Keeton
+REL-652,Readings in Buddhist Texts,
+,Buddhist processual social philosophy,Jessica (Xiaomin) Zu
+REL-701,Research Seminar in Religious Studies,Jill Hicks-Keeton
+REL-794a,Doctoral Dissertation,
+REL-794b,Doctoral Dissertation,
+REL-794c,Doctoral Dissertation,
+REL-794d,Doctoral Dissertation,
+REL-794z,Doctoral Dissertation,
+SWMS-105g,Identity Development of the Contemporary Female,
+SWMS-210mgw,Social Analysis of Gender,Chris Belcher
+,,
+,,
+,,
+,,
+,,
+,,
+SWMS-215gw,Introduction to Gender and Sexuality: International Perspect,Atia Sattar
+,,
+,,
+SWMS-219gp,Introduction to Feminist Theory,Diana Blaine
+,,
+,,
+,,
+,,
+,,
+,,
+SWMS-306,Contemporary Issues in LGBTQ Studies,Eli Dunn
+SWMS-308,Advanced Gender Theory,Julie Van Dam
+SWMS-311,Gender and Sexuality Studies: Internship,Diana Blaine
+SWMS-316,Gender and Global Issues,Sara Angevine
+SWMS-325,The Science of Sex Differences: A Gender and Sexuality Studi,Sunyoung Park
+SWMS-336,"Health, Gender and Ethnicity",Atia Sattar
+SWMS-344mg,Sexual/Textual Diversity,Sarah Kessler
+SWMS-355,Transgender Studies,Eli Dunn
+SWMS-374mg,Women Writers in Europe and America,Margaret Rosenthal
+,,
+,,
+SWMS-378,Gender and Sexuality in Literary Theory,Mia Du Plessis
+SWMS-381,"Sex, Power, and Politics",Christian Phillips
+SWMS-383,French Women Writers,Antonia Szabari
+SWMS-395m,"Gender, Media and Communication",Daniela Baroffio
+SWMS-410,Senior Seminar in Gender and Sexuality Studies,Jane Junn
+SWMS-412,"Gender, Sexuality and Media",
+SWMS-442m,"Women's Spaces in History: 'Hussies,' 'Harems,' and 'Housewi",
+SWMS-490x,Directed Research,Diana Blaine
+SWMS-588,"Seminar in Gay, Lesbian, Bisexual and Transgender Studies",Karen Tongson
+SWMS-590,Directed Research,Karen Tongson
+THTR-101,Introduction to Acting,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+THTR-105,Introduction to Screen Acting,
+THTR-115a,Movement I,
+,,
+THTR-120aL,Acting I,
+,,
+,,
+,,
+THTR-122,Improvisation and Theatre Games,
+,,
+,,
+,,
+,,
+,,
+THTR-125,Text Studies for Production,
+,,
+,,
+,,
+,,
+,,
+,,
+THTR-130,Introduction to Theatrical Production,
+,,
+THTR-131a,Advanced Theatrical Production,
+,,
+THTR-132a,Art of Theatrical Design,
+THTR-192g,History of Stand-Up Comedy,
+THTR-195g,Theatre on Film,
+THTR-197g,Comedy and Performance,
+THTR-205g,"Stardom: Creation, Management and Culture Impact",
+THTR-214a,The Actor's Instrument: Voice and Body,
+THTR-216,Movement for Actors,
+,,
+,,
+THTR-220a,Intermediate Acting I,
+THTR-222,Stage Make-up,
+THTR-230,Communicating Theatrical Design Concepts,
+THTR-231,Costume Construction,
+THTR-232,Stage Lighting,
+THTR-236,Stage Sound,
+THTR-252a,Intermediate Acting I: Drama/Comedy,
+,,
+,,
+,,
+,,
+THTR-252b,Intermediate Acting I: Drama/Comedy,
+THTR-290,Introduction to Medical Clowning,
+THTR-295,Theatre in Los Angeles,
+THTR-305a,Directing,
+,,
+,,
+,,
+THTR-318,Creating the Hit Podcast,
+THTR-320a,Intermediate Acting II,
+THTR-322,Improv 2: Advanced Improv,
+THTR-325,Casting for Stage and Screen,
+THTR-330,Scene Design I,
+THTR-331,Costume Design I,
+THTR-332,Lighting Design I,
+THTR-333,Stage Management I,
+THTR-335,Scenic Construction,
+,,
+THTR-339a,The Actor's Instrument: Voice and Body II,
+THTR-340a,Intermediate Voice,
+THTR-342a,Basic Voice,
+,,
+,,
+THTR-343,Musical Theatre Audition,
+THTR-352a,Intermediate Acting II,
+,,
+,,
+,,
+THTR-354,Acting Shakespeare,
+THTR-355,Acting for Sitcoms,
+THTR-365,Playwriting I,
+THTR-395m,Drama as Human Relations,
+THTR-397,Theatre Practicum,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+THTR-402,Projection Design II,
+,,
+THTR-404,Acting Theory,
+THTR-405m,Performing Identities,
+THTR-406,Theatre on the Edge,
+THTR-407a,Drawing and Rendering for the Theater,
+THTR-408a,Dialects,
+THTR-409,Advanced Drafting: Vectorworks,
+,,
+THTR-410,The Digital Actor,
+THTR-411,The Business of Acting,
+THTR-420,Senior Project,
+THTR-421,Public Speaking as Performance: A Course for Non-Actors,
+THTR-423,Magic,
+THTR-424,Creator as Entrepreneur,
+THTR-427,"Audition Technique for Film, Television and New Media",
+THTR-432a,Scene Design II,
+THTR-433a,Costume Design II,
+THTR-434a,Lighting Design II,
+THTR-436,Sound for Theatre,
+THTR-438,Technical Theatre,
+THTR-439,Stage Properties,
+THTR-442,Voice-over Acting,
+,,
+THTR-443,Production Management,
+THTR-447,Fashion Influencing,
+THTR-448L,History of Fashion and the Costume,
+,,
+THTR-452,Advanced Acting,
+THTR-456,Latinx Theatre,
+THTR-464,An Actor's Reel,
+THTR-467,Going Viral: Performance for New Media,
+THTR-470,Sketch Comedy for Theatre,
+THTR-474,Introduction to Stand Up Comedy,
+,,
+,,
+,,
+,,
+THTR-475,Acting on Camera: The Collaborative Process,
+THTR-479,Solo Performance,
+THTR-480a,Performance for Camera,
+,,
+,,
+,,
+THTR-480b,Performance for Camera,
+,,
+THTR-482,Stand Up 2: Becoming A Pro,
+THTR-484,Acting in Television Commercials,
+THTR-489,Theatre Internship,
+THTR-490x,Directed Research,
+,,
+,,
+THTR-491,Theatre Organization and Administration,
+THTR-493a,Periods and Styles,
+THTR-495,Experimental Theatre Workshop I,
+THTR-497,Advanced Theatre Practicum,
+,,
+,,
+,,
+,,
+THTR-500,Dramaturgical Perspectives and Approaches,
+THTR-501,Poetry and Prose into Drama,
+THTR-507,Casting Director Workshop,
+THTR-515a,Advanced Movement,
+,,
+THTR-515c,Advanced Movement,
+,,
+THTR-520a,Advanced Acting,
+,,
+THTR-520c,Advanced Acting,
+,,
+THTR-527,Writing the Pacific Rim: Global and Western Dramatic Writing,
+THTR-529a,Textual Studies for Performance,
+THTR-540a,Advanced Voice Diction,
+THTR-540c,Advanced Voice Diction,
+,,
+THTR-540e,Advanced Voice Diction,
+THTR-541,Diction and Dialects,
+THTR-542,Singing for Actors,
+THTR-566,Dramatic Writing Studio,
+THTR-574a,Dramatic Writing Across Media for Playwrights,
+THTR-580a,Performance with Camera,
+THTR-590,Directed Research,
+THTR-596,Thesis Development and Attainment,
+THTR-597,Theatre Practicum,
+WRIT-150,Writing and Critical Reasoning--Thematic Approaches,
+,Human Values and Belief Systems,Sean Cosgrove
+,Identity and Diversity in American Contexts,Brett Gordon
+,Issues in Law and Social Justice,Taiyaba Husain
+,Human Values and Belief Systems,Amber Foster
+,Human Values and Belief Systems,Sandra Ross
+,Education and Intellectual Development,Brent Chappelow
+,Human Values and Belief Systems,Evelyn Boria-Rivera
+,Technology &amp; Social Change,Patti Taylor
+,Health and Healing,Vanessa Osborne
+,Issues in Sustainability,Rochelle Gold
+,Education and Intellectual Development,Cory Nelson
+,Health and Healing,Rowan Bayne
+,Globalization: Current Issues &amp; Cross-Cultural Perspectives.,Noor Hashem
+,Issues in Work and Working Life,Ryan Boyd
+,Issues in Sustainability,Corinna Schroeder
+,Issues in Contemporary Economics,Rory Lukins
+,Technology &amp; Social Change,Eric Rawson
+,Education and Intellectual Development,Brent Chappelow
+,Human Values and Belief Systems,Amber Foster
+,Human Values and Belief Systems,Evelyn Boria-Rivera
+,Education and Intellectual Development,Elizabeth Durst
+,Issues in Aesthetics,Maya Garabedian
+,Issues in Law and Social Justice,Taiyaba Husain
+,Identity and Diversity in American Contexts,Brett Gordon
+,Issues in Sustainability,William Gorski
+,Issues in Law and Social Justice,Mary Traester
+,Technology &amp; Social Change,Patti Taylor
+,Issues in Aesthetics,Jessica Piazza
+,Community Engagement,Benjamin Pack
+,Identity and Diversity in American Contexts,Christopher Muniz
+,Health and Healing,Taly Matejka
+,Identity and Diversity in American Contexts,Sarah Orem
+,Education and Intellectual Development,Ali Pearl
+,Community Engagement,Emily Artiano
+,Health and Healing,Pamela Albanese
+,Education and Intellectual Development,Cory Nelson
+,Issues in Aesthetics,Shana Kraynak
+,Health and Healing,Rowan Bayne
+,Issues in Work and Working Life,Ryan Boyd
+,Education and Intellectual Development,Jim Clements
+,Issues in Aesthetics,Shana Kraynak
+,Issues in Contemporary Economics,Andrew De Silva
+,Issues in Law and Social Justice,Deanna Rivera
+,Issues in Sustainability,Rochelle Gold
+,Community Engagement,Emily Artiano
+,Education and Intellectual Development,Deborah Sims
+,Issues in Aesthetics,Leah Pate
+,Technology &amp; Social Change,Eric Rawson
+,Issues in Aesthetics,Jeffrey Chisum
+,Health and Healing,Pamela Albanese
+,Issues in Aesthetics,Michael Bunn
+,Technology &amp; Social Change,LauraAnne Carroll-Adler
+,Education and Intellectual Development,Jim Clements
+,Identity and Diversity in American Contexts,Daniel Dissinger
+,Globalization: Current Issues &amp; Cross-Cultural Perspectives,Tanvi Patel
+,Globalization: Current Issues &amp; Cross-Cultural Perspectives,Amanda Hobmeier
+,Human Values and Belief Systems,Carlos Antonio Delgado
+,Issues in Aesthetics,April Davidauskis
+,Education and Intellectual Development,Elizabeth Durst
+,Issues in Sustainability,Rebecca Fullan
+,Issues in Aesthetics,Maya Garabedian
+,Issues in Sustainability,William Gorski
+,Issues in Law and Social Justice,Mary Traester
+,Identity and Diversity in American Contexts,Michelle Rosado
+,Community Engagement,Benjamin Pack
+,Community Engagement,Alison Minami
+,Identity and Diversity in American Contexts,Sarah Orem
+,Issues in Work and Working Life,Zen Dochterman
+,Issues in Contemporary Economics,Andrew De Silva
+,Education and Intellectual Development,Deborah Sims
+,Issues in Aesthetics,Leah Pate
+,Globalization: Current Issues &amp; Cross-Cultural Perspectives,Noor Hashem
+,Issues in Aesthetics,Jeffrey Chisum
+,Issues in Aesthetics,Michael Bunn
+,Identity and Diversity in American Contexts,Daniel Dissinger
+,Technology &amp; Social Change,LauraAnne Carroll-Adler
+,Health and Healing,Amanda Scharf
+,Education and Intellectual Development,Ali Pearl
+,Issues in Sustainability,Corinna Schroeder
+,Health and Healing,Vanessa Osborne
+,Health and Healing,Taly Matejka
+,Issues in Contemporary Economics,Rory Lukins
+,Globalization: Current Issues &amp; Cross-Cultural Perspectives,Tanvi Patel
+,Globalization: Current Issues &amp; Cross-Cultural Perspectives,Amanda Hobmeier
+,Issues in Law and Social Justice,Taiyaba Husain
+,Human Values and Belief Systems,Carlos Antonio Delgado
+,Issues in Aesthetics,April Davidauskis
+,Education and Intellectual Development,Elizabeth Durst
+,Issues in Sustainability,Rebecca Fullan
+,Technology &amp; Social Change,Patti Taylor
+,Identity and Diversity in American Contexts,Michelle Rosado
+,Issues in Aesthetics,Jessica Piazza
+,Community Engagement,Benjamin Pack
+,Identity and Diversity in American Contexts,Christopher Muniz
+,Community Engagement,Alison Minami
+,Issues in Aesthetics,Mitra Parineh
+,Health and Healing,Ryan Leack
+,Issues in Aesthetics,Arsalan ul Haq
+,Issues in Law and Social Justice,Deanna Rivera
+,Issues in Sustainability,Corinna Schroeder
+,Identity and Diversity in American Contexts,Daniel Dissinger
+,Health and Healing,Amanda Scharf
+,Issues in Work and Working Life,Zen Dochterman
+,Health and Healing,Taly Matejka
+,Issues in Contemporary Economics,Rory Lukins
+,Technology &amp; Social Change,Eric Rawson
+,Technology &amp; Social Change,LauraAnne Carroll-Adler
+,Issues in Aesthetics,Michael Bunn
+,Globalization: Current Issues &amp; Cross-Cultural Perspectives,Noor Hashem
+,Community Engagement,Michelle Meyers
+,Technology &amp; Social Change,Maddox Pennington
+,Identity and Diversity in American Contexts,Keasha Worthen
+,Issues in Work and Working Life,Luke Church
+,Issues in Law and Social Justice,Gino Conti
+,Human Values and Belief Systems,Sean Cosgrove
+,Human Values and Belief Systems,Sandra Ross
+,Human Values and Belief Systems,Kristie Guillen
+,Technology &amp; Social Change,Amanda Bloom
+,Issues in Sustainability,William Gorski
+,Issues in Law and Social Justice,Mary Traester
+,Identity and Diversity in American Contexts,Michelle Rosado
+,Issues in Aesthetics,Jessica Piazza
+,Identity and Diversity in American Contexts,Christopher Muniz
+,Community Engagement,Alison Minami
+,Issues in Aesthetics,Mitra Parineh
+,Health and Healing,Ryan Leack
+,Issues in Aesthetics,Arsalan ul Haq
+,Community Engagement,Michelle Meyers
+,Technology &amp; Social Change,Maddox Pennington
+,Identity and Diversity in American Contexts,Keasha Worthen
+,Issues in Work and Working Life,Luke Church
+,Issues in Law and Social Justice,Gino Conti
+,Human Values and Belief Systems,Sandra Ross
+,Human Values and Belief Systems,Kristie Guillen
+,Technology &amp; Social Change,Amanda Bloom
+,Health and Healing,Ryan Leack
+,Issues in Aesthetics,Arsalan ul Haq
+,Issues in Law and Social Justice,Gino Conti
+,Technology &amp; Social Change,Amanda Bloom
+,Issues in Aesthetics,Jeffrey Chisum
+WRIT-320,Experiential Learning,
+,Competitive Moot Court,Antonio Elefano
+WRIT-340,Advanced Writing,
+,Advanced Writing for Arts and Humanities,Justin Bibler
+,Advanced Writing for Visual and Performing Arts,Scott Smith
+,Advanced Writing: Food Studies,Stephanie Payne
+,Advanced Writing: Writing Sustainability into Action,Liz Blomstedt
+,Advanced Writing for Arts and Humanities,Lilit Keshishyan
+,Advanced Writing for Pre-Law Students,Nathalie Joseph
+,Advanced Writing for Pre-Law Students,Stephen Mack
+,Advanced Writing for Arts and Humanities,David Tomkins
+,Advanced Writing for Natural Sciences,William Feuer
+,Advanced Writing for Visual and Performing Arts,Laurie Fisher
+,Advanced Writing for Arts and Humanities,Lilit Keshishyan
+,Advanced Writing for Health Sciences,Matthew Manson
+,Advanced Writing for Health Sciences,Dana Santoscoy
+,Advanced Writing for Arts and Humanities,Justin Bibler
+,Advanced Writing for Social Sciences,Mark Marino
+,Advanced Writing for Social Sciences,Jessica Cantiello
+,Advanced Writing for Social Sciences,Ellen Wayland-Smith
+,Advanced Writing for Pre-Law Students,Alisa Sanchez
+,Advanced Writing for Arts and Humanities,Indra Mukhopadhyay
+,Advanced Writing for Economics,Tamara Black
+,Advanced Writing for Economics,Tamara Black
+,Advanced Writing for Social Sciences,Mark Marino
+,Advanced Writing for Arts and Humanities,Jennifer Bankard
+,Advanced Writing for Economics,Tamara Black
+,Advanced Writing for Social Sciences,Jessica Cantiello
+,Advanced Writing for Arts and Humanities,Alexis Landau
+,Advanced Writing for Arts and Humanities,James Condon
+,Advanced Writing for Social Sciences,Ellen Wayland-Smith
+,Advanced Writing for Arts and Humanities,Indra Mukhopadhyay
+,Advanced Writing for Arts and Humanities,David Tomkins
+,Advanced Writing for Natural Sciences,William Feuer
+,Advanced Writing for Visual and Performing Arts,Laurie Fisher
+,Advanced Writing for Social Sciences,William Wyatt
+,Advanced Writing for Health Sciences,Dana Santoscoy
+,"Advanced Writing for Editors, Writers, and Publishers",Sarah Mesle
+,Advanced Writing for Arts and Humanities,P.T. McNiff
+,"Advanced Writing for Editors, Writers, and Publishers",Amy Meyerson
+,Advanced Writing for Social Sciences,Stephanie Bower
+,Advanced Writing for Arts and Humanities,Jennifer Bankard
+,Advanced Writing for Social Sciences,Ryan Boyd
+,Advanced Writing for Arts and Humanities,James Condon
+,Advanced Writing for Pre-Law Students,Alisa Sanchez
+,Advanced Writing for Pre-Law Students,Stephen Mack
+,Advanced Writing for Arts and Humanities,Alexis Landau
+,Advanced Writing: Moot Court,Antonio Elefano
+,Advanced Writing for Social Sciences,William Wyatt
+,Advanced Writing for Health Sciences,Dana Santoscoy
+,Advanced Writing for Arts and Humanities,Lilit Keshishyan
+,Advanced Writing for Arts and Humanities,Sarah Mesle
+,Advanced Writing for Arts and Humanities,P.T. McNiff
+,Advanced Writing for Health Sciences,Matthew Manson
+,Advanced Writing: IR and Global Economics,Nathalie Joseph
+,Advanced Writing for Social Sciences,Stephanie Bower
+,Advanced Writing for Arts and Humanities,Amy Meyerson
+,Advanced Writing for Arts and Humanities,Jennifer Bankard
+,Advanced Writing for Arts and Humanities,James Condon
+,Advanced Writing for Pre-Law Students,Alisa Sanchez
+,Advanced Writing for Pre-Law Students,Stephen Mack
+,Advanced Writing for Arts and Humanities,Chris Belcher
+,Advanced Writing for Visual and Performing Arts,Scott Smith
+,Advanced Writing for Health Sciences,Shefali Rajamannar
+,Advanced Writing: Food Studies,Stephanie Payne
+,Advanced Writing: Writing Sustainability into Action,Liz Blomstedt
+,Advanced Writing for Visual and Performing Arts,David Tomkins
+,Advanced Writing for Natural Sciences,William Feuer
+,Advanced Writing for Social Sciences,William Wyatt
+,Advanced Writing for Arts and Humanities,Sarah Mesle
+,Advanced Writing for Arts and Humanities,P.T. McNiff
+,Advanced Writing for Health Sciences,Matthew Manson
+,Advanced Writing for Visual and Performing Arts,Scott Smith
+,Advanced Writing for Health Sciences,Shefali Rajamannar
+,Advanced Writing: Food Studies,Stephanie Payne
+,Advanced Writing: Writing Sustainability into Action,Liz Blomstedt
+,Advanced Writing for Social Sciences,Sean Cosgrove
+,Advanced Writing for Arts and Humanities.,Chris Belcher
+,Advanced Writing for Health Sciences,Shefali Rajamannar
+,Advanced Writing for Business,Navdeep Mundi
+,Advanced Writing for Business,Navdeep Mundi
+,Advanced Writing for Business,Clark Hansen
+,Advanced Writing for Business,Michelle Silver Lee
+,Advanced Writing for Business,Pavitra Kavya
+,Advanced Writing for Business,Michelle Silver Lee
+,Advanced Writing for Business,Andrew Ogilvie
+,Advanced Writing for Business,Clark Hansen
+,Advanced Writing for Business,Maria Colman
+,Advanced Writing for Business,Andrew Ogilvie
+,Advanced Writing for Business,Lee Cerling
+,Advanced Writing for Business,Todd Henneman
+,Advanced Writing for Business,Lee Cerling
+,Advanced Writing for Business,Janna Wong
+,Advanced Writing for Business,Janna Wong
+,Advanced Writing for Business,Lee Cerling
+,Advanced Writing for Business,Todd Henneman
+,Advanced Writing for Business: Entertainment Industry,Janna Wong
+,Advanced Writing for Business,James Owens
+,Advanced Writing for Business,Naomi Warren
+,Advanced Writing for Business,Naomi Warren
+,Advanced Writing for Business,Madge Gaynor
+,Advanced Writing for Business,Naomi Warren
+,Advanced Writing Communication for Engineers,Elisabeth Weiss
+,Advanced Writing Communication for Engineers,Helen Choi
+,Advanced Writing Communication for Engineers,Helen Choi
+,Advanced Writing Communication for Engineers,Elisabeth Weiss
+,Advanced Writing Communication for Engineers,Elisabeth Weiss
+,Advanced Writing Communication for Engineers,
+,Advanced Writing Communication for Engineers,
+,Advanced Writing Communication for Engineers,Steve Bucher
+,Advanced Writing Communication for Engineers,
+,Advanced Writing Communication for Engineers,Marc Aubertin
+,Advanced Writing Communication for Engineers,Martha Townsend
+,"Disciplinary Grand Challenges in Sydney and Los Angeles: Cities, Citizen, and Engineering",
+,Advanced Writing Communication for Engineers,Marc Aubertin
+,Advanced Writing Communication for Engineers,
+,Advanced Writing Communication for Engineers,Martha Townsend
+,Advanced Writing Communication for Engineers,Martha Townsend
+,"Disciplinary Grand Challenges in Sydney and Los Angeles: Cities, Citizen, and Engineering",
+,Advanced Writing Communication for Engineers,
+,Advanced Writing Communication for Engineers,
+,Engineering Global Innovations and Perspectives,
+,Advanced Writing Communication for Engineers,
+,Advanced Writing Communication for Engineers,Katherine Brichacek
+,Advanced Writing Communication for Engineers,
+,Advanced Writing Communication for Engineers,Harly Ramsey
+WRIT-440,Writing in Practical Contexts,
+,Advanced Legal Writing,Antonio Elefano
+WRIT-501a,Theory and Practice in Teaching Expository Writing,Emily Artiano Rowan Bayne
+,,Deborah Sims Jim Clements
+,,Cory Nelson Leah Pate
